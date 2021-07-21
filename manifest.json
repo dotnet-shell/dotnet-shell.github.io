@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "D:/Repos/dotnet-shell/Shell/docs",
+  "source_base_path": "D:/Repos/GitHub/dotnet-shell/Shell/docs",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -18,7 +18,31 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "CklARJew0SCZ5MbDlC4S33RAXhI77HyeXTVBJ1SsZv8="
+          "hash": "HXwhlSGTBwFYnL5zJ8xu1qwn/9JxBEr+WVU2ruks5fY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/ConsoleGUI.Controls.ListView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ConsoleGUI.Controls.ListView.html",
+          "hash": "r3Jml1D6B1fBsIGopF+SzNO7pe+jrnTaxnmTw3a0qus="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/ConsoleGUI.Controls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ConsoleGUI.Controls.html",
+          "hash": "bs4MdFknL4JJhD9FmF51cR+z2B5mlwtVmboVt8aXjjQ="
         }
       },
       "is_incremental": false,
@@ -30,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.API.ExitException.html",
-          "hash": "+QJADIU/Mub9iapusv5WhVSYBG/ql3PMEDazzwqrTgo="
+          "hash": "gNsma0cKgi/cM4vTqmH4HgxC4+49T6FP22HSoCH57r0="
         }
       },
       "is_incremental": false,
@@ -42,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.API.HistoryItem.html",
-          "hash": "vUJnYuYFTIKkzNVBxjT774AjHO1RkVduEAzAuxLKsak="
+          "hash": "yjhRK62mDiNPmzqIdMnwrg0VJDdSkapiE6/LNWKed5A="
         }
       },
       "is_incremental": false,
@@ -54,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.API.Shell.html",
-          "hash": "TDLb5HBKmH5cH2VsEbIr7pZGFznak1yLS4+Y3mz0xlc="
+          "hash": "Z5W6K00o5dANGZjZKVC8iyIBxTxuSI/XY/h3m+JS89s="
         }
       },
       "is_incremental": false,
@@ -66,7 +90,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.API.html",
-          "hash": "dHhsbs4bITtdNTrYGABxrKlGTvFlVhMxusgTIhjbsB4="
+          "hash": "Qf0RNEdudVE83DJAJdRO319Yi0Gv7ADDUnuRGdgo/A8="
         }
       },
       "is_incremental": false,
@@ -78,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Console.IConsole.html",
-          "hash": "9C4umvExb562YLHgh0yW7FtMsdSPH8Ksh5fVhWYlUJY="
+          "hash": "IY9hkDnoDbtdCNuuvm/J6uP8rnYjyE5mfGsmBZNNlEg="
         }
       },
       "is_incremental": false,
@@ -90,7 +114,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Console.html",
-          "hash": "fU/ZGMDFhYabtCDeTiDLc9thOUtFs/JNMuw8tvb4/Vg="
+          "hash": "kRsqWjMpEzj+EOYsuJaxJs3b3HWCyCnZvRVojr4MR3s="
         }
       },
       "is_incremental": false,
@@ -102,7 +126,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Execution.OS.html",
-          "hash": "qOsdHv+dA0hprsYEyVLI3NANRSWCvswDL2KSTVzUbtQ="
+          "hash": "ah/HSXrF2hfLEC2/JYuYo4ye5/XKMjWnh0Dui6223mQ="
         }
       },
       "is_incremental": false,
@@ -114,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Execution.ProcessEx.html",
-          "hash": "8H0SOYFVUFBcMGz7W3Ez828Kgy7KIiNdUsr+RjsH2yo="
+          "hash": "zhfzOTWuJhSd1l3gnKJnAr6II2BZyQI6NMB3yX6UTUw="
         }
       },
       "is_incremental": false,
@@ -126,7 +150,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Execution.Redirection.html",
-          "hash": "o9xs9rm1+R1V59JK9uqEyxhCtHC1Pc1F3rjSlwWY+L0="
+          "hash": "Jf3Y8l4UZoXpSZQpQM5snUFDaAnBZZ7KdDIGnFk/zbw="
         }
       },
       "is_incremental": false,
@@ -138,7 +162,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Execution.html",
-          "hash": "71kqfAZ/zRlIXiCdqatswJ5WhiN3MxJNtbDIa/xwHc0="
+          "hash": "slk1u+pcSMcdkZdl2c6O1Q+7BHsGdNUGsSM1My3p4qw="
         }
       },
       "is_incremental": false,
@@ -150,7 +174,31 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Settings.html",
-          "hash": "tol22QgEvDdfHgAft5lHej8AjJbXfAVnN8HxAvB0VlA="
+          "hash": "NtJt1rKtC5y+8xGjPp8V9G2TAXZmmJXMgG1pcsDgDPM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.Logic.Suggestions.Suggestion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.Logic.Suggestions.Suggestion.html",
+          "hash": "nKXS83W8GjdeekCJaIiT0584uR9bzHAWSHEjtD1bFWc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.Logic.Suggestions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.Logic.Suggestions.html",
+          "hash": "v+yM4ttl7A4V9sQrSiklxCc61zcxb7SM+umSHZQ0hjo="
         }
       },
       "is_incremental": false,
@@ -162,7 +210,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.UserExperience.html",
-          "hash": "1Uz5sApHnff5+titoYkaBN0/l1yLl27ld743YuPvPt4="
+          "hash": "syVd2Tu5Lqc3vVfBWmNiwPieYgyZ8dbFwt3zOf8EjM0="
         }
       },
       "is_incremental": false,
@@ -174,7 +222,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.html",
-          "hash": "qRo3BuKH70KOatho6S6YVs2td4tQ6HJl0P4TNrAcgJM="
+          "hash": "S+jmt2mcrmuWxi1XTbTJlId9+SRyeRahky4YvHa4CWA="
         }
       },
       "is_incremental": false,
@@ -186,7 +234,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.UI.ColorString.html",
-          "hash": "qZKY9DrxXXAMjrMKuqmef+/ifSNki07EIy/tagKq9rE="
+          "hash": "w/e2SZOP1nFclajWMqY5XeaXHwh3Hey0/ZNviUQCm1g="
         }
       },
       "is_incremental": false,
@@ -198,7 +246,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.UI.html",
-          "hash": "DS58ghTad3D7TtnTAxBTe1SAEqsHOgRMwqGwZZiM7AM="
+          "hash": "J+psPUrd29UKXS+1a6soBQa2pVOSrl3RnYJWb5S58Co="
         }
       },
       "is_incremental": false,
@@ -210,7 +258,19 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "18fSTtZ3/8SoSgBHoHeqhL53PxOrsvyXVsu+XgU0ACc="
+          "hash": "/wFOKXyNBfrDZQwe2qQ+bwonbRzQdEyGzShFv7sxCu0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "prompts.md",
+      "output": {
+        ".html": {
+          "relative_path": "prompts.html",
+          "hash": "GLY2jevViok/sf1culDI/LW/or+T/MJkbmx3Jce5cso="
         }
       },
       "is_incremental": false,
@@ -222,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "sDL1SoQsmmaGnr2JLRsPM4l7m7Y/yAWayTqj/RqvrAc="
+          "hash": "w0CJK1/PUo8oCh55T7Tb/GPd3yzNh1MBzNPm/H/L9Wc="
         }
       },
       "is_incremental": false,
@@ -241,14 +301,14 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 1,
-          "skipped_file_count": 0
+          "total_file_count": 2,
+          "skipped_file_count": 1
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 15,
-          "skipped_file_count": 13
+          "total_file_count": 19,
+          "skipped_file_count": 19
         },
         "TocDocumentProcessor": {
           "can_incremental": false,

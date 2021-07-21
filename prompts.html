@@ -6,23 +6,21 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Namespace Dotnet.Shell.Logic.Execution
-   | dotnet-shell </title>
+    <title>Customizing your prompt | dotnet-shell </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Namespace Dotnet.Shell.Logic.Execution
-   | dotnet-shell ">
+    <meta name="title" content="Customizing your prompt | dotnet-shell ">
     <meta name="generator" content="docfx 2.58.0.0">
     
-    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="shortcut icon" href="favicon.ico">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/night-owl.min.css">
-    <link rel="stylesheet" href="../styles/colors.css">
-    <link rel="stylesheet" href="../styles/discord.css">
-    <link rel="stylesheet" href="../styles/main.css">
-    <meta property="docfx:navrel" content="../toc.html">
+    <link rel="stylesheet" href="styles/colors.css">
+    <link rel="stylesheet" href="styles/discord.css">
+    <link rel="stylesheet" href="styles/main.css">
+    <meta property="docfx:navrel" content="toc.html">
     <meta property="docfx:tocrel" content="toc.html">
     
-    <meta property="docfx:rel" content="../">
+    <meta property="docfx:rel" content="">
     
   </head>
 
@@ -34,8 +32,8 @@
             </a>
 
             
-            <a class="brand" href="../index.html">
-              <img src="../logo.svg" alt="" class="logomark">
+            <a class="brand" href="index.html">
+              <img src="logo.svg" alt="" class="logomark">
               <span class="brand-title"></span>
             </a>
         </div>
@@ -53,8 +51,8 @@
                     
                     <div>
                       
-                      <a class="brand" href="../index.html">
-                        <img src="../logo.svg" alt="" class="logomark">
+                      <a class="brand" href="index.html">
+                        <img src="logo.svg" alt="" class="logomark">
                         <span class="brand-title"></span>
                       </a>
                       <div id="navbar">
@@ -66,10 +64,6 @@
 
                     <div class="sidebar-item-separator"></div>
 
-                        
-                        <div id="sidetoggle">
-                          <div id="sidetoc"></div>
-                        </div>
 
                 </div>
 
@@ -92,25 +86,25 @@
                           </div>
                         </div>
 
-                    <article class="content wrap" id="_content" data-uid="Dotnet.Shell.Logic.Execution">
-  
-  <h1 id="Dotnet_Shell_Logic_Execution" data-uid="Dotnet.Shell.Logic.Execution" class="text-break">Namespace Dotnet.Shell.Logic.Execution
-  </h1>
-  <div class="markdown level0 summary"></div>
-  <div class="markdown level0 conceptual"></div>
-  <div class="markdown level0 remarks"></div>
-    <h3 id="classes">Classes
-  </h3>
-      <h4><a class="xref" href="Dotnet.Shell.Logic.Execution.OS.html">OS</a></h4>
-      <section><p>This class implements OS actions such as Execution</p>
-</section>
-      <h4><a class="xref" href="Dotnet.Shell.Logic.Execution.ProcessEx.html">ProcessEx</a></h4>
-      <section></section>
-    <h3 id="enums">Enums
-  </h3>
-      <h4><a class="xref" href="Dotnet.Shell.Logic.Execution.Redirection.html">Redirection</a></h4>
-      <section><p>Flags to determine which stream has been redirected</p>
-</section>
+                    <article class="content wrap" id="_content" data-uid="">
+<h1 id="customizing-your-prompt">Customizing your prompt</h1>
+
+<p>Dotnet-shell supports prompt customization through the <a href="/api/Dotnet.Shell.API.Shell.html#Dotnet_Shell_API_Shell_Prompt">Shell.Prompt API function</a>. To use this simply declare a function that will be called everytime a prompt is to be rendered and set this to Shell.Prompt. You can do this at any time but doing this in core.nsh will mean your prompt will always be displayed first.</p>
+<h2 id="powerline">Powerline</h2>
+<p>By default dotnet-shell ships with basinc support for Powerline - you can find this in core.nsh. A terse example is given here:</p>
+<pre><code>Shell.Prompt = () =&gt; 
+{
+    string powerLinePrompt=`powerline-render shell left --last-exit-code=$Shell.LastExitCode$`;
+    return ColorString.FromRawANSI( powerLinePrompt );
+};
+</code></pre>
+<h2 id="starship">Starship</h2>
+<p><a href="https://starship.rs/">Starship</a> support can be added to dotnet-shell using the following syntax in you core.nsh file.</p>
+<pre><code>Shell.Prompt = () =&gt;
+    var prompt = `starship prompt --status=$Shell.LastExitCode$ --jobs=$Shell.BackgroundProcesses.Count()$`;
+    return ColorString.FromRawANSI(prompt);
+};
+</code></pre>
 </article>
               
                 </div>
@@ -122,11 +116,11 @@
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js"></script>
-<script type="text/javascript" src="../styles/jquery.twbsPagination.js"></script>
-<script type="text/javascript" src="../styles/url.min.js"></script>
+<script type="text/javascript" src="styles/jquery.twbsPagination.js"></script>
+<script type="text/javascript" src="styles/url.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
-<script type="text/javascript" src="../styles/docfx.js"></script>
-<script type="text/javascript" src="../styles/main.js"></script>
+<script type="text/javascript" src="styles/docfx.js"></script>
+<script type="text/javascript" src="styles/main.js"></script>
 
     </body>
 
