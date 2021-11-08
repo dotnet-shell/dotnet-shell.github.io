@@ -26,35 +26,23 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "obj/api/ConsoleGUI.Controls.ListView.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/ConsoleGUI.Controls.ListView.html",
-          "hash": "r3Jml1D6B1fBsIGopF+SzNO7pe+jrnTaxnmTw3a0qus="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "obj/api/ConsoleGUI.Controls.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/ConsoleGUI.Controls.html",
-          "hash": "bs4MdFknL4JJhD9FmF51cR+z2B5mlwtVmboVt8aXjjQ="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "obj/api/Dotnet.Shell.API.ExitException.yml",
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.API.ExitException.html",
-          "hash": "gNsma0cKgi/cM4vTqmH4HgxC4+49T6FP22HSoCH57r0="
+          "hash": "rIEQwPKZBrBtdKGZXgsLD+xL51FlAUVSvLhCmHq5zRg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.API.HistoryAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.API.HistoryAPI.html",
+          "hash": "Gwvd0M2WnvZrulKoe1Xn/6YXAiXNGUUJbWIgI5thbEw="
         }
       },
       "is_incremental": false,
@@ -66,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.API.HistoryItem.html",
-          "hash": "yjhRK62mDiNPmzqIdMnwrg0VJDdSkapiE6/LNWKed5A="
+          "hash": "rRkGnG0QRlRqJC1qh4aW2gdsVHvKkguaUtvAnGPRx5g="
         }
       },
       "is_incremental": false,
@@ -78,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.API.Shell.html",
-          "hash": "Z5W6K00o5dANGZjZKVC8iyIBxTxuSI/XY/h3m+JS89s="
+          "hash": "b4UQmGy5/P9vBbFjKe04L0c5eorv2MU4XeO27M8q2RE="
         }
       },
       "is_incremental": false,
@@ -90,7 +78,79 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.API.html",
-          "hash": "Qf0RNEdudVE83DJAJdRO319Yi0Gv7ADDUnuRGdgo/A8="
+          "hash": "XUX0TUnEZUew0y8whhS4xngAqXnI/Xy1ohS1BY+hVZI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.Logic.Compilation.Executer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.Logic.Compilation.Executer.html",
+          "hash": "JYNcCcNrS6gECwV9SExpUocZNxk+NgUPJcLss9eJUSg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.html",
+          "hash": "6fEnA+gaGxU+mcGukD/uDfo5O+JgKyCWNvGATzP7zvk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.Logic.Compilation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.Logic.Compilation.html",
+          "hash": "r2EJnGpGb3b2LAJSiCmqOCP6GnBrbekk/PsmYHy25kk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.Logic.Console.ConsoleImproved.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.Logic.Console.ConsoleImproved.html",
+          "hash": "G7c7drYgwTN0UBHGz34Bw2YGRlPaZdL21DIq0UlBvC0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html",
+          "hash": "1ocYDyZ5aTshOscC75irkvEZMJazMBwdegjBdbpSZ1c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.Logic.Console.DotNetConsole.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.Logic.Console.DotNetConsole.html",
+          "hash": "zphNcVdb4eO/CoS1qLRpm95g3Dk1NkHNMKJob6eezwM="
         }
       },
       "is_incremental": false,
@@ -102,7 +162,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Console.IConsole.html",
-          "hash": "IY9hkDnoDbtdCNuuvm/J6uP8rnYjyE5mfGsmBZNNlEg="
+          "hash": "li/9zRswfFN9wEErrFGkKanCsweyGQID0wuELs5N3Z4="
         }
       },
       "is_incremental": false,
@@ -114,7 +174,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Console.html",
-          "hash": "kRsqWjMpEzj+EOYsuJaxJs3b3HWCyCnZvRVojr4MR3s="
+          "hash": "P0sy0gxzUbIHbkf2HBraGYLEQjYEazqEjlNUpWWAqw8="
         }
       },
       "is_incremental": false,
@@ -126,7 +186,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Execution.OS.html",
-          "hash": "ah/HSXrF2hfLEC2/JYuYo4ye5/XKMjWnh0Dui6223mQ="
+          "hash": "YUMywZkX9p//9WbcDQQDpFMm+C2pGp0Y9+9vax7ypgU="
         }
       },
       "is_incremental": false,
@@ -138,7 +198,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Execution.ProcessEx.html",
-          "hash": "zhfzOTWuJhSd1l3gnKJnAr6II2BZyQI6NMB3yX6UTUw="
+          "hash": "dHGzP3nJAm2uLOAUDpMKhyjjD1Yfho/zSEBF2lz3sSw="
         }
       },
       "is_incremental": false,
@@ -150,7 +210,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Execution.Redirection.html",
-          "hash": "Jf3Y8l4UZoXpSZQpQM5snUFDaAnBZZ7KdDIGnFk/zbw="
+          "hash": "qkr1XLYHeSThO44o0jOIdtIEeqJysBxtAPXI5bfnQ/o="
         }
       },
       "is_incremental": false,
@@ -174,7 +234,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Settings.html",
-          "hash": "NtJt1rKtC5y+8xGjPp8V9G2TAXZmmJXMgG1pcsDgDPM="
+          "hash": "iKd/jEysYFMY5XZ7yNNjrDDrvihj/JJE23u0PCF/a/8="
         }
       },
       "is_incremental": false,
@@ -186,7 +246,19 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Suggestions.Suggestion.html",
-          "hash": "nKXS83W8GjdeekCJaIiT0584uR9bzHAWSHEjtD1bFWc="
+          "hash": "91h0eyqa+V+rZcJV9hA7svSgZRxWwAJXVb+yAF8bajE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.Logic.Suggestions.Suggestions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.Logic.Suggestions.Suggestions.html",
+          "hash": "M9RwEIzLEvXIWnKwZ4j1iZrEOXPs9Q7vKnjT9Rl2s/E="
         }
       },
       "is_incremental": false,
@@ -198,7 +270,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.Suggestions.html",
-          "hash": "v+yM4ttl7A4V9sQrSiklxCc61zcxb7SM+umSHZQ0hjo="
+          "hash": "LO0pN1+u8NfR39z/Sod5532+BUJD9sjZYOygY+l4JNQ="
         }
       },
       "is_incremental": false,
@@ -210,7 +282,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.Logic.UserExperience.html",
-          "hash": "syVd2Tu5Lqc3vVfBWmNiwPieYgyZ8dbFwt3zOf8EjM0="
+          "hash": "eN27kh4CtfA7S84VYuj2QU6p9KP9VWIIwfGy2N4tYqw="
         }
       },
       "is_incremental": false,
@@ -234,7 +306,67 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.UI.ColorString.html",
-          "hash": "w/e2SZOP1nFclajWMqY5XeaXHwh3Hey0/ZNviUQCm1g="
+          "hash": "zT2yTQwmKeuApGefIqYlf26ikBFn4/blIQFluX6kWsQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.UI.Enhanced.HistoryBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.UI.Enhanced.HistoryBox.html",
+          "hash": "cVJZExHFCviwkCaJslY2gKB9dqcjHmelYi/qOoISVdU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.UI.Enhanced.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.UI.Enhanced.html",
+          "hash": "70l+5t1HEm/RjyizFKqikicgG9V+3DfDTrG8f5dghf4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.UI.ErrorDisplay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.UI.ErrorDisplay.html",
+          "hash": "48h8P+BnIUTRzr9JRKhe0qkwLzcyCVGiVZQYuwakW9w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.UI.Standard.HistorySearch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.UI.Standard.HistorySearch.html",
+          "hash": "1VbrmOZtfuJoTgTsnIgV2Hn787ec7LB0u9uKtv/wZ3A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Dotnet.Shell.UI.Standard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dotnet.Shell.UI.Standard.html",
+          "hash": "jH1HLIFmDUfuVsNCUdNk1oNBIy6ta5vYVe+yh4C8kP8="
         }
       },
       "is_incremental": false,
@@ -246,7 +378,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Dotnet.Shell.UI.html",
-          "hash": "J+psPUrd29UKXS+1a6soBQa2pVOSrl3RnYJWb5S58Co="
+          "hash": "quilWcOxwsGRZ0BL1hzf/Rupjjsl0a7VefPZtbv0+WI="
         }
       },
       "is_incremental": false,
@@ -258,7 +390,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "/wFOKXyNBfrDZQwe2qQ+bwonbRzQdEyGzShFv7sxCu0="
+          "hash": "ykJ2zKsjYDrnKcCYaYdnCYwLukv/vcQQzOxdf/hSW5U="
         }
       },
       "is_incremental": false,
@@ -282,7 +414,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "w0CJK1/PUo8oCh55T7Tb/GPd3yzNh1MBzNPm/H/L9Wc="
+          "hash": "FIye2NNHaNOHFxrL3TsI35SLdp+pCVR84NRC1eobaIE="
         }
       },
       "is_incremental": false,
@@ -292,23 +424,25 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 2,
-          "skipped_file_count": 1
+          "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 19,
-          "skipped_file_count": 19
+          "total_file_count": 30,
+          "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
           "can_incremental": false,

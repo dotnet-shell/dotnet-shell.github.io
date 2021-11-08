@@ -1,139 +1,6 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: ConsoleGUI.Controls
-  name: ConsoleGUI.Controls
-  href: api/ConsoleGUI.Controls.html
-  commentId: N:ConsoleGUI.Controls
-  fullName: ConsoleGUI.Controls
-  nameWithType: ConsoleGUI.Controls
-- uid: ConsoleGUI.Controls.ListView
-  name: ListView
-  href: api/ConsoleGUI.Controls.ListView.html
-  commentId: T:ConsoleGUI.Controls.ListView
-  fullName: ConsoleGUI.Controls.ListView
-  nameWithType: ListView
-- uid: ConsoleGUI.Controls.ListView.#ctor
-  name: ListView()
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView__ctor
-  commentId: M:ConsoleGUI.Controls.ListView.#ctor
-  fullName: ConsoleGUI.Controls.ListView.ListView()
-  nameWithType: ListView.ListView()
-- uid: ConsoleGUI.Controls.ListView.#ctor*
-  name: ListView
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView__ctor_
-  commentId: Overload:ConsoleGUI.Controls.ListView.#ctor
-  isSpec: "True"
-  fullName: ConsoleGUI.Controls.ListView.ListView
-  nameWithType: ListView.ListView
-- uid: ConsoleGUI.Controls.ListView.ConsoleGUI#Input#IInputListener#OnInput(ConsoleGUI.Input.InputEvent)
-  name: IInputListener.OnInput(InputEvent)
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_ConsoleGUI_Input_IInputListener_OnInput_ConsoleGUI_Input_InputEvent_
-  commentId: M:ConsoleGUI.Controls.ListView.ConsoleGUI#Input#IInputListener#OnInput(ConsoleGUI.Input.InputEvent)
-  name.vb: ConsoleGUI.Input.IInputListener.OnInput(InputEvent)
-  fullName: ConsoleGUI.Controls.ListView.ConsoleGUI.Input.IInputListener.OnInput(ConsoleGUI.Input.InputEvent)
-  nameWithType: ListView.IInputListener.OnInput(InputEvent)
-  nameWithType.vb: ListView.ConsoleGUI.Input.IInputListener.OnInput(InputEvent)
-- uid: ConsoleGUI.Controls.ListView.ConsoleGUI#Input#IInputListener#OnInput*
-  name: IInputListener.OnInput
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_ConsoleGUI_Input_IInputListener_OnInput_
-  commentId: Overload:ConsoleGUI.Controls.ListView.ConsoleGUI#Input#IInputListener#OnInput
-  isSpec: "True"
-  name.vb: ConsoleGUI.Input.IInputListener.OnInput
-  fullName: ConsoleGUI.Controls.ListView.ConsoleGUI.Input.IInputListener.OnInput
-  nameWithType: ListView.IInputListener.OnInput
-  nameWithType.vb: ListView.ConsoleGUI.Input.IInputListener.OnInput
-- uid: ConsoleGUI.Controls.ListView.Items
-  name: Items
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_Items
-  commentId: P:ConsoleGUI.Controls.ListView.Items
-  fullName: ConsoleGUI.Controls.ListView.Items
-  nameWithType: ListView.Items
-- uid: ConsoleGUI.Controls.ListView.Items*
-  name: Items
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_Items_
-  commentId: Overload:ConsoleGUI.Controls.ListView.Items
-  isSpec: "True"
-  fullName: ConsoleGUI.Controls.ListView.Items
-  nameWithType: ListView.Items
-- uid: ConsoleGUI.Controls.ListView.ScrollDownKey
-  name: ScrollDownKey
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_ScrollDownKey
-  commentId: P:ConsoleGUI.Controls.ListView.ScrollDownKey
-  fullName: ConsoleGUI.Controls.ListView.ScrollDownKey
-  nameWithType: ListView.ScrollDownKey
-- uid: ConsoleGUI.Controls.ListView.ScrollDownKey*
-  name: ScrollDownKey
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_ScrollDownKey_
-  commentId: Overload:ConsoleGUI.Controls.ListView.ScrollDownKey
-  isSpec: "True"
-  fullName: ConsoleGUI.Controls.ListView.ScrollDownKey
-  nameWithType: ListView.ScrollDownKey
-- uid: ConsoleGUI.Controls.ListView.ScrollUpKey
-  name: ScrollUpKey
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_ScrollUpKey
-  commentId: P:ConsoleGUI.Controls.ListView.ScrollUpKey
-  fullName: ConsoleGUI.Controls.ListView.ScrollUpKey
-  nameWithType: ListView.ScrollUpKey
-- uid: ConsoleGUI.Controls.ListView.ScrollUpKey*
-  name: ScrollUpKey
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_ScrollUpKey_
-  commentId: Overload:ConsoleGUI.Controls.ListView.ScrollUpKey
-  isSpec: "True"
-  fullName: ConsoleGUI.Controls.ListView.ScrollUpKey
-  nameWithType: ListView.ScrollUpKey
-- uid: ConsoleGUI.Controls.ListView.SelectedIndex
-  name: SelectedIndex
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_SelectedIndex
-  commentId: P:ConsoleGUI.Controls.ListView.SelectedIndex
-  fullName: ConsoleGUI.Controls.ListView.SelectedIndex
-  nameWithType: ListView.SelectedIndex
-- uid: ConsoleGUI.Controls.ListView.SelectedIndex*
-  name: SelectedIndex
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_SelectedIndex_
-  commentId: Overload:ConsoleGUI.Controls.ListView.SelectedIndex
-  isSpec: "True"
-  fullName: ConsoleGUI.Controls.ListView.SelectedIndex
-  nameWithType: ListView.SelectedIndex
-- uid: ConsoleGUI.Controls.ListView.SelectedItem
-  name: SelectedItem
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_SelectedItem
-  commentId: P:ConsoleGUI.Controls.ListView.SelectedItem
-  fullName: ConsoleGUI.Controls.ListView.SelectedItem
-  nameWithType: ListView.SelectedItem
-- uid: ConsoleGUI.Controls.ListView.SelectedItem*
-  name: SelectedItem
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_SelectedItem_
-  commentId: Overload:ConsoleGUI.Controls.ListView.SelectedItem
-  isSpec: "True"
-  fullName: ConsoleGUI.Controls.ListView.SelectedItem
-  nameWithType: ListView.SelectedItem
-- uid: ConsoleGUI.Controls.ListView.SelectedTextColor
-  name: SelectedTextColor
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_SelectedTextColor
-  commentId: P:ConsoleGUI.Controls.ListView.SelectedTextColor
-  fullName: ConsoleGUI.Controls.ListView.SelectedTextColor
-  nameWithType: ListView.SelectedTextColor
-- uid: ConsoleGUI.Controls.ListView.SelectedTextColor*
-  name: SelectedTextColor
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_SelectedTextColor_
-  commentId: Overload:ConsoleGUI.Controls.ListView.SelectedTextColor
-  isSpec: "True"
-  fullName: ConsoleGUI.Controls.ListView.SelectedTextColor
-  nameWithType: ListView.SelectedTextColor
-- uid: ConsoleGUI.Controls.ListView.TextColor
-  name: TextColor
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_TextColor
-  commentId: P:ConsoleGUI.Controls.ListView.TextColor
-  fullName: ConsoleGUI.Controls.ListView.TextColor
-  nameWithType: ListView.TextColor
-- uid: ConsoleGUI.Controls.ListView.TextColor*
-  name: TextColor
-  href: api/ConsoleGUI.Controls.ListView.html#ConsoleGUI_Controls_ListView_TextColor_
-  commentId: Overload:ConsoleGUI.Controls.ListView.TextColor
-  isSpec: "True"
-  fullName: ConsoleGUI.Controls.ListView.TextColor
-  nameWithType: ListView.TextColor
 - uid: Dotnet.Shell.API
   name: Dotnet.Shell.API
   href: api/Dotnet.Shell.API.html
@@ -146,6 +13,41 @@ references:
   commentId: T:Dotnet.Shell.API.ExitException
   fullName: Dotnet.Shell.API.ExitException
   nameWithType: ExitException
+- uid: Dotnet.Shell.API.HistoryAPI
+  name: HistoryAPI
+  href: api/Dotnet.Shell.API.HistoryAPI.html
+  commentId: T:Dotnet.Shell.API.HistoryAPI
+  fullName: Dotnet.Shell.API.HistoryAPI
+  nameWithType: HistoryAPI
+- uid: Dotnet.Shell.API.HistoryAPI.ListenForSearchResultAsync(System.Action{System.Int32,System.String})
+  name: ListenForSearchResultAsync(Action<Int32, String>)
+  href: api/Dotnet.Shell.API.HistoryAPI.html#Dotnet_Shell_API_HistoryAPI_ListenForSearchResultAsync_System_Action_System_Int32_System_String__
+  commentId: M:Dotnet.Shell.API.HistoryAPI.ListenForSearchResultAsync(System.Action{System.Int32,System.String})
+  name.vb: ListenForSearchResultAsync(Action(Of Int32, String))
+  fullName: Dotnet.Shell.API.HistoryAPI.ListenForSearchResultAsync(System.Action<System.Int32, System.String>)
+  fullName.vb: Dotnet.Shell.API.HistoryAPI.ListenForSearchResultAsync(System.Action(Of System.Int32, System.String))
+  nameWithType: HistoryAPI.ListenForSearchResultAsync(Action<Int32, String>)
+  nameWithType.vb: HistoryAPI.ListenForSearchResultAsync(Action(Of Int32, String))
+- uid: Dotnet.Shell.API.HistoryAPI.ListenForSearchResultAsync*
+  name: ListenForSearchResultAsync
+  href: api/Dotnet.Shell.API.HistoryAPI.html#Dotnet_Shell_API_HistoryAPI_ListenForSearchResultAsync_
+  commentId: Overload:Dotnet.Shell.API.HistoryAPI.ListenForSearchResultAsync
+  isSpec: "True"
+  fullName: Dotnet.Shell.API.HistoryAPI.ListenForSearchResultAsync
+  nameWithType: HistoryAPI.ListenForSearchResultAsync
+- uid: Dotnet.Shell.API.HistoryAPI.SearchResultAsync(System.String,System.Int32,System.String)
+  name: SearchResultAsync(String, Int32, String)
+  href: api/Dotnet.Shell.API.HistoryAPI.html#Dotnet_Shell_API_HistoryAPI_SearchResultAsync_System_String_System_Int32_System_String_
+  commentId: M:Dotnet.Shell.API.HistoryAPI.SearchResultAsync(System.String,System.Int32,System.String)
+  fullName: Dotnet.Shell.API.HistoryAPI.SearchResultAsync(System.String, System.Int32, System.String)
+  nameWithType: HistoryAPI.SearchResultAsync(String, Int32, String)
+- uid: Dotnet.Shell.API.HistoryAPI.SearchResultAsync*
+  name: SearchResultAsync
+  href: api/Dotnet.Shell.API.HistoryAPI.html#Dotnet_Shell_API_HistoryAPI_SearchResultAsync_
+  commentId: Overload:Dotnet.Shell.API.HistoryAPI.SearchResultAsync
+  isSpec: "True"
+  fullName: Dotnet.Shell.API.HistoryAPI.SearchResultAsync
+  nameWithType: HistoryAPI.SearchResultAsync
 - uid: Dotnet.Shell.API.HistoryItem
   name: HistoryItem
   href: api/Dotnet.Shell.API.HistoryItem.html
@@ -442,6 +344,12 @@ references:
   isSpec: "True"
   fullName: Dotnet.Shell.API.Shell.History
   nameWithType: Shell.History
+- uid: Dotnet.Shell.API.Shell.HistoryLoadedTask
+  name: HistoryLoadedTask
+  href: api/Dotnet.Shell.API.Shell.html#Dotnet_Shell_API_Shell_HistoryLoadedTask
+  commentId: F:Dotnet.Shell.API.Shell.HistoryLoadedTask
+  fullName: Dotnet.Shell.API.Shell.HistoryLoadedTask
+  nameWithType: Shell.HistoryLoadedTask
 - uid: Dotnet.Shell.API.Shell.HomeDirectory
   name: HomeDirectory
   href: api/Dotnet.Shell.API.Shell.html#Dotnet_Shell_API_Shell_HomeDirectory
@@ -552,6 +460,19 @@ references:
   isSpec: "True"
   fullName: Dotnet.Shell.API.Shell.RemoveCSAlias
   nameWithType: Shell.RemoveCSAlias
+- uid: Dotnet.Shell.API.Shell.TryReplaceWithCSAlias(System.String)
+  name: TryReplaceWithCSAlias(String)
+  href: api/Dotnet.Shell.API.Shell.html#Dotnet_Shell_API_Shell_TryReplaceWithCSAlias_System_String_
+  commentId: M:Dotnet.Shell.API.Shell.TryReplaceWithCSAlias(System.String)
+  fullName: Dotnet.Shell.API.Shell.TryReplaceWithCSAlias(System.String)
+  nameWithType: Shell.TryReplaceWithCSAlias(String)
+- uid: Dotnet.Shell.API.Shell.TryReplaceWithCSAlias*
+  name: TryReplaceWithCSAlias
+  href: api/Dotnet.Shell.API.Shell.html#Dotnet_Shell_API_Shell_TryReplaceWithCSAlias_
+  commentId: Overload:Dotnet.Shell.API.Shell.TryReplaceWithCSAlias
+  isSpec: "True"
+  fullName: Dotnet.Shell.API.Shell.TryReplaceWithCSAlias
+  nameWithType: Shell.TryReplaceWithCSAlias
 - uid: Dotnet.Shell.API.Shell.WorkingDirectory
   name: WorkingDirectory
   href: api/Dotnet.Shell.API.Shell.html#Dotnet_Shell_API_Shell_WorkingDirectory
@@ -571,12 +492,742 @@ references:
   commentId: N:Dotnet.Shell.Logic
   fullName: Dotnet.Shell.Logic
   nameWithType: Dotnet.Shell.Logic
+- uid: Dotnet.Shell.Logic.Compilation
+  name: Dotnet.Shell.Logic.Compilation
+  href: api/Dotnet.Shell.Logic.Compilation.html
+  commentId: N:Dotnet.Shell.Logic.Compilation
+  fullName: Dotnet.Shell.Logic.Compilation
+  nameWithType: Dotnet.Shell.Logic.Compilation
+- uid: Dotnet.Shell.Logic.Compilation.Executer
+  name: Executer
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html
+  commentId: T:Dotnet.Shell.Logic.Compilation.Executer
+  fullName: Dotnet.Shell.Logic.Compilation.Executer
+  nameWithType: Executer
+- uid: Dotnet.Shell.Logic.Compilation.Executer.Args
+  name: Args
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html#Dotnet_Shell_Logic_Compilation_Executer_Args
+  commentId: P:Dotnet.Shell.Logic.Compilation.Executer.Args
+  fullName: Dotnet.Shell.Logic.Compilation.Executer.Args
+  nameWithType: Executer.Args
+- uid: Dotnet.Shell.Logic.Compilation.Executer.Args*
+  name: Args
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html#Dotnet_Shell_Logic_Compilation_Executer_Args_
+  commentId: Overload:Dotnet.Shell.Logic.Compilation.Executer.Args
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Compilation.Executer.Args
+  nameWithType: Executer.Args
+- uid: Dotnet.Shell.Logic.Compilation.Executer.ExecuteAsync(System.String,System.Int32,System.Boolean)
+  name: ExecuteAsync(String, Int32, Boolean)
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html#Dotnet_Shell_Logic_Compilation_Executer_ExecuteAsync_System_String_System_Int32_System_Boolean_
+  commentId: M:Dotnet.Shell.Logic.Compilation.Executer.ExecuteAsync(System.String,System.Int32,System.Boolean)
+  fullName: Dotnet.Shell.Logic.Compilation.Executer.ExecuteAsync(System.String, System.Int32, System.Boolean)
+  nameWithType: Executer.ExecuteAsync(String, Int32, Boolean)
+- uid: Dotnet.Shell.Logic.Compilation.Executer.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html#Dotnet_Shell_Logic_Compilation_Executer_ExecuteAsync_
+  commentId: Overload:Dotnet.Shell.Logic.Compilation.Executer.ExecuteAsync
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Compilation.Executer.ExecuteAsync
+  nameWithType: Executer.ExecuteAsync
+- uid: Dotnet.Shell.Logic.Compilation.Executer.ExecuteFileAsync(System.String)
+  name: ExecuteFileAsync(String)
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html#Dotnet_Shell_Logic_Compilation_Executer_ExecuteFileAsync_System_String_
+  commentId: M:Dotnet.Shell.Logic.Compilation.Executer.ExecuteFileAsync(System.String)
+  fullName: Dotnet.Shell.Logic.Compilation.Executer.ExecuteFileAsync(System.String)
+  nameWithType: Executer.ExecuteFileAsync(String)
+- uid: Dotnet.Shell.Logic.Compilation.Executer.ExecuteFileAsync*
+  name: ExecuteFileAsync
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html#Dotnet_Shell_Logic_Compilation_Executer_ExecuteFileAsync_
+  commentId: Overload:Dotnet.Shell.Logic.Compilation.Executer.ExecuteFileAsync
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Compilation.Executer.ExecuteFileAsync
+  nameWithType: Executer.ExecuteFileAsync
+- uid: Dotnet.Shell.Logic.Compilation.Executer.GetDefaultExecuterAsync(Dotnet.Shell.UI.ErrorDisplay)
+  name: GetDefaultExecuterAsync(ErrorDisplay)
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html#Dotnet_Shell_Logic_Compilation_Executer_GetDefaultExecuterAsync_Dotnet_Shell_UI_ErrorDisplay_
+  commentId: M:Dotnet.Shell.Logic.Compilation.Executer.GetDefaultExecuterAsync(Dotnet.Shell.UI.ErrorDisplay)
+  fullName: Dotnet.Shell.Logic.Compilation.Executer.GetDefaultExecuterAsync(Dotnet.Shell.UI.ErrorDisplay)
+  nameWithType: Executer.GetDefaultExecuterAsync(ErrorDisplay)
+- uid: Dotnet.Shell.Logic.Compilation.Executer.GetDefaultExecuterAsync*
+  name: GetDefaultExecuterAsync
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html#Dotnet_Shell_Logic_Compilation_Executer_GetDefaultExecuterAsync_
+  commentId: Overload:Dotnet.Shell.Logic.Compilation.Executer.GetDefaultExecuterAsync
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Compilation.Executer.GetDefaultExecuterAsync
+  nameWithType: Executer.GetDefaultExecuterAsync
+- uid: Dotnet.Shell.Logic.Compilation.Executer.LoadAssemblyFromFileAsync(System.String)
+  name: LoadAssemblyFromFileAsync(String)
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html#Dotnet_Shell_Logic_Compilation_Executer_LoadAssemblyFromFileAsync_System_String_
+  commentId: M:Dotnet.Shell.Logic.Compilation.Executer.LoadAssemblyFromFileAsync(System.String)
+  fullName: Dotnet.Shell.Logic.Compilation.Executer.LoadAssemblyFromFileAsync(System.String)
+  nameWithType: Executer.LoadAssemblyFromFileAsync(String)
+- uid: Dotnet.Shell.Logic.Compilation.Executer.LoadAssemblyFromFileAsync*
+  name: LoadAssemblyFromFileAsync
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html#Dotnet_Shell_Logic_Compilation_Executer_LoadAssemblyFromFileAsync_
+  commentId: Overload:Dotnet.Shell.Logic.Compilation.Executer.LoadAssemblyFromFileAsync
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Compilation.Executer.LoadAssemblyFromFileAsync
+  nameWithType: Executer.LoadAssemblyFromFileAsync
+- uid: Dotnet.Shell.Logic.Compilation.Executer.Shell
+  name: Shell
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html#Dotnet_Shell_Logic_Compilation_Executer_Shell
+  commentId: P:Dotnet.Shell.Logic.Compilation.Executer.Shell
+  fullName: Dotnet.Shell.Logic.Compilation.Executer.Shell
+  nameWithType: Executer.Shell
+- uid: Dotnet.Shell.Logic.Compilation.Executer.Shell*
+  name: Shell
+  href: api/Dotnet.Shell.Logic.Compilation.Executer.html#Dotnet_Shell_Logic_Compilation_Executer_Shell_
+  commentId: Overload:Dotnet.Shell.Logic.Compilation.Executer.Shell
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Compilation.Executer.Shell
+  nameWithType: Executer.Shell
+- uid: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException
+  name: PreProcessorSyntaxException
+  href: api/Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.html
+  commentId: T:Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException
+  fullName: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException
+  nameWithType: PreProcessorSyntaxException
+- uid: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.#ctor(System.String,System.Int32)
+  name: PreProcessorSyntaxException(String, Int32)
+  href: api/Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.html#Dotnet_Shell_Logic_Compilation_PreProcessorSyntaxException__ctor_System_String_System_Int32_
+  commentId: M:Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.#ctor(System.String,System.Int32)
+  fullName: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.PreProcessorSyntaxException(System.String, System.Int32)
+  nameWithType: PreProcessorSyntaxException.PreProcessorSyntaxException(String, Int32)
+- uid: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.#ctor(System.String,System.Int32,System.Collections.Generic.List{System.Int32})
+  name: PreProcessorSyntaxException(String, Int32, List<Int32>)
+  href: api/Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.html#Dotnet_Shell_Logic_Compilation_PreProcessorSyntaxException__ctor_System_String_System_Int32_System_Collections_Generic_List_System_Int32__
+  commentId: M:Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.#ctor(System.String,System.Int32,System.Collections.Generic.List{System.Int32})
+  name.vb: PreProcessorSyntaxException(String, Int32, List(Of Int32))
+  fullName: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.PreProcessorSyntaxException(System.String, System.Int32, System.Collections.Generic.List<System.Int32>)
+  fullName.vb: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.PreProcessorSyntaxException(System.String, System.Int32, System.Collections.Generic.List(Of System.Int32))
+  nameWithType: PreProcessorSyntaxException.PreProcessorSyntaxException(String, Int32, List<Int32>)
+  nameWithType.vb: PreProcessorSyntaxException.PreProcessorSyntaxException(String, Int32, List(Of Int32))
+- uid: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.#ctor*
+  name: PreProcessorSyntaxException
+  href: api/Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.html#Dotnet_Shell_Logic_Compilation_PreProcessorSyntaxException__ctor_
+  commentId: Overload:Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.#ctor
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.PreProcessorSyntaxException
+  nameWithType: PreProcessorSyntaxException.PreProcessorSyntaxException
+- uid: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.Line
+  name: Line
+  href: api/Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.html#Dotnet_Shell_Logic_Compilation_PreProcessorSyntaxException_Line
+  commentId: P:Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.Line
+  fullName: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.Line
+  nameWithType: PreProcessorSyntaxException.Line
+- uid: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.Line*
+  name: Line
+  href: api/Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.html#Dotnet_Shell_Logic_Compilation_PreProcessorSyntaxException_Line_
+  commentId: Overload:Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.Line
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.Line
+  nameWithType: PreProcessorSyntaxException.Line
+- uid: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.RelatedLines
+  name: RelatedLines
+  href: api/Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.html#Dotnet_Shell_Logic_Compilation_PreProcessorSyntaxException_RelatedLines
+  commentId: P:Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.RelatedLines
+  fullName: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.RelatedLines
+  nameWithType: PreProcessorSyntaxException.RelatedLines
+- uid: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.RelatedLines*
+  name: RelatedLines
+  href: api/Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.html#Dotnet_Shell_Logic_Compilation_PreProcessorSyntaxException_RelatedLines_
+  commentId: Overload:Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.RelatedLines
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Compilation.PreProcessorSyntaxException.RelatedLines
+  nameWithType: PreProcessorSyntaxException.RelatedLines
 - uid: Dotnet.Shell.Logic.Console
   name: Dotnet.Shell.Logic.Console
   href: api/Dotnet.Shell.Logic.Console.html
   commentId: N:Dotnet.Shell.Logic.Console
   fullName: Dotnet.Shell.Logic.Console
   nameWithType: Dotnet.Shell.Logic.Console
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved
+  name: ConsoleImproved
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html
+  commentId: T:Dotnet.Shell.Logic.Console.ConsoleImproved
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved
+  nameWithType: ConsoleImproved
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.#ctor(Dotnet.Shell.Logic.Console.IConsole,Dotnet.Shell.API.Shell)
+  name: ConsoleImproved(IConsole, Shell)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved__ctor_Dotnet_Shell_Logic_Console_IConsole_Dotnet_Shell_API_Shell_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.#ctor(Dotnet.Shell.Logic.Console.IConsole,Dotnet.Shell.API.Shell)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.ConsoleImproved(Dotnet.Shell.Logic.Console.IConsole, Dotnet.Shell.API.Shell)
+  nameWithType: ConsoleImproved.ConsoleImproved(IConsole, Shell)
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.#ctor*
+  name: ConsoleImproved
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved__ctor_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.#ctor
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.ConsoleImproved
+  nameWithType: ConsoleImproved.ConsoleImproved
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.AddKeyOverride(Dotnet.Shell.Logic.Console.ConsoleKeyEx,System.Func{Dotnet.Shell.Logic.Console.ConsoleImproved,Dotnet.Shell.Logic.Console.ConsoleKeyEx,System.Threading.Tasks.Task{System.Boolean}})
+  name: AddKeyOverride(ConsoleKeyEx, Func<ConsoleImproved, ConsoleKeyEx, Task<Boolean>>)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_AddKeyOverride_Dotnet_Shell_Logic_Console_ConsoleKeyEx_System_Func_Dotnet_Shell_Logic_Console_ConsoleImproved_Dotnet_Shell_Logic_Console_ConsoleKeyEx_System_Threading_Tasks_Task_System_Boolean___
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.AddKeyOverride(Dotnet.Shell.Logic.Console.ConsoleKeyEx,System.Func{Dotnet.Shell.Logic.Console.ConsoleImproved,Dotnet.Shell.Logic.Console.ConsoleKeyEx,System.Threading.Tasks.Task{System.Boolean}})
+  name.vb: AddKeyOverride(ConsoleKeyEx, Func(Of ConsoleImproved, ConsoleKeyEx, Task(Of Boolean)))
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.AddKeyOverride(Dotnet.Shell.Logic.Console.ConsoleKeyEx, System.Func<Dotnet.Shell.Logic.Console.ConsoleImproved, Dotnet.Shell.Logic.Console.ConsoleKeyEx, System.Threading.Tasks.Task<System.Boolean>>)
+  fullName.vb: Dotnet.Shell.Logic.Console.ConsoleImproved.AddKeyOverride(Dotnet.Shell.Logic.Console.ConsoleKeyEx, System.Func(Of Dotnet.Shell.Logic.Console.ConsoleImproved, Dotnet.Shell.Logic.Console.ConsoleKeyEx, System.Threading.Tasks.Task(Of System.Boolean)))
+  nameWithType: ConsoleImproved.AddKeyOverride(ConsoleKeyEx, Func<ConsoleImproved, ConsoleKeyEx, Task<Boolean>>)
+  nameWithType.vb: ConsoleImproved.AddKeyOverride(ConsoleKeyEx, Func(Of ConsoleImproved, ConsoleKeyEx, Task(Of Boolean)))
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.AddKeyOverride*
+  name: AddKeyOverride
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_AddKeyOverride_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.AddKeyOverride
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.AddKeyOverride
+  nameWithType: ConsoleImproved.AddKeyOverride
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.ClearUserEntry(System.Int32)
+  name: ClearUserEntry(Int32)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_ClearUserEntry_System_Int32_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.ClearUserEntry(System.Int32)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.ClearUserEntry(System.Int32)
+  nameWithType: ConsoleImproved.ClearUserEntry(Int32)
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.ClearUserEntry*
+  name: ClearUserEntry
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_ClearUserEntry_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.ClearUserEntry
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.ClearUserEntry
+  nameWithType: ConsoleImproved.ClearUserEntry
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.CursorPosition
+  name: CursorPosition
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_CursorPosition
+  commentId: P:Dotnet.Shell.Logic.Console.ConsoleImproved.CursorPosition
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.CursorPosition
+  nameWithType: ConsoleImproved.CursorPosition
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.CursorPosition*
+  name: CursorPosition
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_CursorPosition_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.CursorPosition
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.CursorPosition
+  nameWithType: ConsoleImproved.CursorPosition
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.DisplayPrompt(System.Boolean)
+  name: DisplayPrompt(Boolean)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_DisplayPrompt_System_Boolean_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.DisplayPrompt(System.Boolean)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.DisplayPrompt(System.Boolean)
+  nameWithType: ConsoleImproved.DisplayPrompt(Boolean)
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.DisplayPrompt(System.String,System.Boolean)
+  name: DisplayPrompt(String, Boolean)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_DisplayPrompt_System_String_System_Boolean_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.DisplayPrompt(System.String,System.Boolean)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.DisplayPrompt(System.String, System.Boolean)
+  nameWithType: ConsoleImproved.DisplayPrompt(String, Boolean)
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.DisplayPrompt*
+  name: DisplayPrompt
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_DisplayPrompt_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.DisplayPrompt
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.DisplayPrompt
+  nameWithType: ConsoleImproved.DisplayPrompt
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.GetCommandAsync(System.Threading.CancellationToken)
+  name: GetCommandAsync(CancellationToken)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_GetCommandAsync_System_Threading_CancellationToken_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.GetCommandAsync(System.Threading.CancellationToken)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.GetCommandAsync(System.Threading.CancellationToken)
+  nameWithType: ConsoleImproved.GetCommandAsync(CancellationToken)
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.GetCommandAsync*
+  name: GetCommandAsync
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_GetCommandAsync_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.GetCommandAsync
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.GetCommandAsync
+  nameWithType: ConsoleImproved.GetCommandAsync
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.IgnoreTab
+  name: IgnoreTab()
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_IgnoreTab
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.IgnoreTab
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.IgnoreTab()
+  nameWithType: ConsoleImproved.IgnoreTab()
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.IgnoreTab*
+  name: IgnoreTab
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_IgnoreTab_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.IgnoreTab
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.IgnoreTab
+  nameWithType: ConsoleImproved.IgnoreTab
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.KeyOverrides
+  name: KeyOverrides
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_KeyOverrides
+  commentId: P:Dotnet.Shell.Logic.Console.ConsoleImproved.KeyOverrides
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.KeyOverrides
+  nameWithType: ConsoleImproved.KeyOverrides
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.KeyOverrides*
+  name: KeyOverrides
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_KeyOverrides_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.KeyOverrides
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.KeyOverrides
+  nameWithType: ConsoleImproved.KeyOverrides
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.ReplaceUserEntryAtPosition(System.String,System.Int32)
+  name: ReplaceUserEntryAtPosition(String, Int32)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_ReplaceUserEntryAtPosition_System_String_System_Int32_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.ReplaceUserEntryAtPosition(System.String,System.Int32)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.ReplaceUserEntryAtPosition(System.String, System.Int32)
+  nameWithType: ConsoleImproved.ReplaceUserEntryAtPosition(String, Int32)
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.ReplaceUserEntryAtPosition*
+  name: ReplaceUserEntryAtPosition
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_ReplaceUserEntryAtPosition_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.ReplaceUserEntryAtPosition
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.ReplaceUserEntryAtPosition
+  nameWithType: ConsoleImproved.ReplaceUserEntryAtPosition
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.Reset
+  name: Reset()
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_Reset
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.Reset
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.Reset()
+  nameWithType: ConsoleImproved.Reset()
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.Reset*
+  name: Reset
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_Reset_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.Reset
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.Reset
+  nameWithType: ConsoleImproved.Reset
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.Shell
+  name: Shell
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_Shell
+  commentId: P:Dotnet.Shell.Logic.Console.ConsoleImproved.Shell
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.Shell
+  nameWithType: ConsoleImproved.Shell
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.Shell*
+  name: Shell
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_Shell_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.Shell
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.Shell
+  nameWithType: ConsoleImproved.Shell
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.Tag
+  name: Tag
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_Tag
+  commentId: F:Dotnet.Shell.Logic.Console.ConsoleImproved.Tag
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.Tag
+  nameWithType: ConsoleImproved.Tag
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.UserEnteredText
+  name: UserEnteredText
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_UserEnteredText
+  commentId: P:Dotnet.Shell.Logic.Console.ConsoleImproved.UserEnteredText
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.UserEnteredText
+  nameWithType: ConsoleImproved.UserEnteredText
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.UserEnteredText*
+  name: UserEnteredText
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_UserEnteredText_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.UserEnteredText
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.UserEnteredText
+  nameWithType: ConsoleImproved.UserEnteredText
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.UserEnteredTextPosition
+  name: UserEnteredTextPosition
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_UserEnteredTextPosition
+  commentId: P:Dotnet.Shell.Logic.Console.ConsoleImproved.UserEnteredTextPosition
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.UserEnteredTextPosition
+  nameWithType: ConsoleImproved.UserEnteredTextPosition
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.UserEnteredTextPosition*
+  name: UserEnteredTextPosition
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_UserEnteredTextPosition_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.UserEnteredTextPosition
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.UserEnteredTextPosition
+  nameWithType: ConsoleImproved.UserEnteredTextPosition
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.Width
+  name: Width
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_Width
+  commentId: P:Dotnet.Shell.Logic.Console.ConsoleImproved.Width
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.Width
+  nameWithType: ConsoleImproved.Width
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.Width*
+  name: Width
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_Width_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.Width
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.Width
+  nameWithType: ConsoleImproved.Width
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.Write(Dotnet.Shell.UI.ColorString)
+  name: Write(ColorString)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_Write_Dotnet_Shell_UI_ColorString_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.Write(Dotnet.Shell.UI.ColorString)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.Write(Dotnet.Shell.UI.ColorString)
+  nameWithType: ConsoleImproved.Write(ColorString)
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.Write(System.String,System.Boolean)
+  name: Write(String, Boolean)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_Write_System_String_System_Boolean_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.Write(System.String,System.Boolean)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.Write(System.String, System.Boolean)
+  nameWithType: ConsoleImproved.Write(String, Boolean)
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.Write*
+  name: Write
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_Write_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.Write
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.Write
+  nameWithType: ConsoleImproved.Write
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.WriteLine(Dotnet.Shell.UI.ColorString)
+  name: WriteLine(ColorString)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_WriteLine_Dotnet_Shell_UI_ColorString_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.WriteLine(Dotnet.Shell.UI.ColorString)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.WriteLine(Dotnet.Shell.UI.ColorString)
+  nameWithType: ConsoleImproved.WriteLine(ColorString)
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.WriteLine(System.String)
+  name: WriteLine(String)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_WriteLine_System_String_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleImproved.WriteLine(System.String)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.WriteLine(System.String)
+  nameWithType: ConsoleImproved.WriteLine(String)
+- uid: Dotnet.Shell.Logic.Console.ConsoleImproved.WriteLine*
+  name: WriteLine
+  href: api/Dotnet.Shell.Logic.Console.ConsoleImproved.html#Dotnet_Shell_Logic_Console_ConsoleImproved_WriteLine_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleImproved.WriteLine
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleImproved.WriteLine
+  nameWithType: ConsoleImproved.WriteLine
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx
+  name: ConsoleKeyEx
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html
+  commentId: T:Dotnet.Shell.Logic.Console.ConsoleKeyEx
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx
+  nameWithType: ConsoleKeyEx
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.#ctor(System.Nullable{System.ConsoleKey},System.ConsoleModifiers)
+  name: ConsoleKeyEx(Nullable<ConsoleKey>, ConsoleModifiers)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx__ctor_System_Nullable_System_ConsoleKey__System_ConsoleModifiers_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleKeyEx.#ctor(System.Nullable{System.ConsoleKey},System.ConsoleModifiers)
+  name.vb: ConsoleKeyEx(Nullable(Of ConsoleKey), ConsoleModifiers)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.ConsoleKeyEx(System.Nullable<System.ConsoleKey>, System.ConsoleModifiers)
+  fullName.vb: Dotnet.Shell.Logic.Console.ConsoleKeyEx.ConsoleKeyEx(System.Nullable(Of System.ConsoleKey), System.ConsoleModifiers)
+  nameWithType: ConsoleKeyEx.ConsoleKeyEx(Nullable<ConsoleKey>, ConsoleModifiers)
+  nameWithType.vb: ConsoleKeyEx.ConsoleKeyEx(Nullable(Of ConsoleKey), ConsoleModifiers)
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.#ctor*
+  name: ConsoleKeyEx
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx__ctor_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleKeyEx.#ctor
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.ConsoleKeyEx
+  nameWithType: ConsoleKeyEx.ConsoleKeyEx
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Any
+  name: Any
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx_Any
+  commentId: P:Dotnet.Shell.Logic.Console.ConsoleKeyEx.Any
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Any
+  nameWithType: ConsoleKeyEx.Any
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Any*
+  name: Any
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx_Any_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleKeyEx.Any
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Any
+  nameWithType: ConsoleKeyEx.Any
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Equals(Dotnet.Shell.Logic.Console.ConsoleKeyEx)
+  name: Equals(ConsoleKeyEx)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx_Equals_Dotnet_Shell_Logic_Console_ConsoleKeyEx_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleKeyEx.Equals(Dotnet.Shell.Logic.Console.ConsoleKeyEx)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Equals(Dotnet.Shell.Logic.Console.ConsoleKeyEx)
+  nameWithType: ConsoleKeyEx.Equals(ConsoleKeyEx)
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx_Equals_System_Object_
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleKeyEx.Equals(System.Object)
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Equals(System.Object)
+  nameWithType: ConsoleKeyEx.Equals(Object)
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Equals*
+  name: Equals
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx_Equals_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleKeyEx.Equals
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Equals
+  nameWithType: ConsoleKeyEx.Equals
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.GetHashCode
+  name: GetHashCode()
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx_GetHashCode
+  commentId: M:Dotnet.Shell.Logic.Console.ConsoleKeyEx.GetHashCode
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.GetHashCode()
+  nameWithType: ConsoleKeyEx.GetHashCode()
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.GetHashCode*
+  name: GetHashCode
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx_GetHashCode_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleKeyEx.GetHashCode
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.GetHashCode
+  nameWithType: ConsoleKeyEx.GetHashCode
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Key
+  name: Key
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx_Key
+  commentId: P:Dotnet.Shell.Logic.Console.ConsoleKeyEx.Key
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Key
+  nameWithType: ConsoleKeyEx.Key
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Key*
+  name: Key
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx_Key_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleKeyEx.Key
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Key
+  nameWithType: ConsoleKeyEx.Key
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Modifier
+  name: Modifier
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx_Modifier
+  commentId: P:Dotnet.Shell.Logic.Console.ConsoleKeyEx.Modifier
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Modifier
+  nameWithType: ConsoleKeyEx.Modifier
+- uid: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Modifier*
+  name: Modifier
+  href: api/Dotnet.Shell.Logic.Console.ConsoleKeyEx.html#Dotnet_Shell_Logic_Console_ConsoleKeyEx_Modifier_
+  commentId: Overload:Dotnet.Shell.Logic.Console.ConsoleKeyEx.Modifier
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.ConsoleKeyEx.Modifier
+  nameWithType: ConsoleKeyEx.Modifier
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole
+  name: DotNetConsole
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html
+  commentId: T:Dotnet.Shell.Logic.Console.DotNetConsole
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole
+  nameWithType: DotNetConsole
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.BackgroundColor
+  name: BackgroundColor
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_BackgroundColor
+  commentId: P:Dotnet.Shell.Logic.Console.DotNetConsole.BackgroundColor
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.BackgroundColor
+  nameWithType: DotNetConsole.BackgroundColor
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.BackgroundColor*
+  name: BackgroundColor
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_BackgroundColor_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.BackgroundColor
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.BackgroundColor
+  nameWithType: DotNetConsole.BackgroundColor
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.ClearCurrentLine(System.Int32)
+  name: ClearCurrentLine(Int32)
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_ClearCurrentLine_System_Int32_
+  commentId: M:Dotnet.Shell.Logic.Console.DotNetConsole.ClearCurrentLine(System.Int32)
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.ClearCurrentLine(System.Int32)
+  nameWithType: DotNetConsole.ClearCurrentLine(Int32)
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.ClearCurrentLine*
+  name: ClearCurrentLine
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_ClearCurrentLine_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.ClearCurrentLine
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.ClearCurrentLine
+  nameWithType: DotNetConsole.ClearCurrentLine
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.CursorLeft
+  name: CursorLeft
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_CursorLeft
+  commentId: P:Dotnet.Shell.Logic.Console.DotNetConsole.CursorLeft
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.CursorLeft
+  nameWithType: DotNetConsole.CursorLeft
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.CursorLeft*
+  name: CursorLeft
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_CursorLeft_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.CursorLeft
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.CursorLeft
+  nameWithType: DotNetConsole.CursorLeft
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.CursorTop
+  name: CursorTop
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_CursorTop
+  commentId: P:Dotnet.Shell.Logic.Console.DotNetConsole.CursorTop
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.CursorTop
+  nameWithType: DotNetConsole.CursorTop
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.CursorTop*
+  name: CursorTop
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_CursorTop_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.CursorTop
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.CursorTop
+  nameWithType: DotNetConsole.CursorTop
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet#Shell#Logic#Console#IConsole#CursorVisible
+  name: IConsole.CursorVisible
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_Dotnet_Shell_Logic_Console_IConsole_CursorVisible
+  commentId: P:Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet#Shell#Logic#Console#IConsole#CursorVisible
+  name.vb: Dotnet.Shell.Logic.Console.IConsole.CursorVisible
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet.Shell.Logic.Console.IConsole.CursorVisible
+  nameWithType: DotNetConsole.IConsole.CursorVisible
+  nameWithType.vb: DotNetConsole.Dotnet.Shell.Logic.Console.IConsole.CursorVisible
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet#Shell#Logic#Console#IConsole#CursorVisible*
+  name: IConsole.CursorVisible
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_Dotnet_Shell_Logic_Console_IConsole_CursorVisible_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet#Shell#Logic#Console#IConsole#CursorVisible
+  isSpec: "True"
+  name.vb: Dotnet.Shell.Logic.Console.IConsole.CursorVisible
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet.Shell.Logic.Console.IConsole.CursorVisible
+  nameWithType: DotNetConsole.IConsole.CursorVisible
+  nameWithType.vb: DotNetConsole.Dotnet.Shell.Logic.Console.IConsole.CursorVisible
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet#Shell#Logic#Console#IConsole#WindowHeight
+  name: IConsole.WindowHeight
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_Dotnet_Shell_Logic_Console_IConsole_WindowHeight
+  commentId: P:Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet#Shell#Logic#Console#IConsole#WindowHeight
+  name.vb: Dotnet.Shell.Logic.Console.IConsole.WindowHeight
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet.Shell.Logic.Console.IConsole.WindowHeight
+  nameWithType: DotNetConsole.IConsole.WindowHeight
+  nameWithType.vb: DotNetConsole.Dotnet.Shell.Logic.Console.IConsole.WindowHeight
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet#Shell#Logic#Console#IConsole#WindowHeight*
+  name: IConsole.WindowHeight
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_Dotnet_Shell_Logic_Console_IConsole_WindowHeight_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet#Shell#Logic#Console#IConsole#WindowHeight
+  isSpec: "True"
+  name.vb: Dotnet.Shell.Logic.Console.IConsole.WindowHeight
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet.Shell.Logic.Console.IConsole.WindowHeight
+  nameWithType: DotNetConsole.IConsole.WindowHeight
+  nameWithType.vb: DotNetConsole.Dotnet.Shell.Logic.Console.IConsole.WindowHeight
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet#Shell#Logic#Console#IConsole#WindowWidth
+  name: IConsole.WindowWidth
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_Dotnet_Shell_Logic_Console_IConsole_WindowWidth
+  commentId: P:Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet#Shell#Logic#Console#IConsole#WindowWidth
+  name.vb: Dotnet.Shell.Logic.Console.IConsole.WindowWidth
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet.Shell.Logic.Console.IConsole.WindowWidth
+  nameWithType: DotNetConsole.IConsole.WindowWidth
+  nameWithType.vb: DotNetConsole.Dotnet.Shell.Logic.Console.IConsole.WindowWidth
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet#Shell#Logic#Console#IConsole#WindowWidth*
+  name: IConsole.WindowWidth
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_Dotnet_Shell_Logic_Console_IConsole_WindowWidth_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet#Shell#Logic#Console#IConsole#WindowWidth
+  isSpec: "True"
+  name.vb: Dotnet.Shell.Logic.Console.IConsole.WindowWidth
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.Dotnet.Shell.Logic.Console.IConsole.WindowWidth
+  nameWithType: DotNetConsole.IConsole.WindowWidth
+  nameWithType.vb: DotNetConsole.Dotnet.Shell.Logic.Console.IConsole.WindowWidth
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.ForegroundColor
+  name: ForegroundColor
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_ForegroundColor
+  commentId: P:Dotnet.Shell.Logic.Console.DotNetConsole.ForegroundColor
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.ForegroundColor
+  nameWithType: DotNetConsole.ForegroundColor
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.ForegroundColor*
+  name: ForegroundColor
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_ForegroundColor_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.ForegroundColor
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.ForegroundColor
+  nameWithType: DotNetConsole.ForegroundColor
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.KeyAvailiable
+  name: KeyAvailiable
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_KeyAvailiable
+  commentId: P:Dotnet.Shell.Logic.Console.DotNetConsole.KeyAvailiable
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.KeyAvailiable
+  nameWithType: DotNetConsole.KeyAvailiable
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.KeyAvailiable*
+  name: KeyAvailiable
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_KeyAvailiable_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.KeyAvailiable
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.KeyAvailiable
+  nameWithType: DotNetConsole.KeyAvailiable
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.MoveCursorDown(System.Int32)
+  name: MoveCursorDown(Int32)
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_MoveCursorDown_System_Int32_
+  commentId: M:Dotnet.Shell.Logic.Console.DotNetConsole.MoveCursorDown(System.Int32)
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.MoveCursorDown(System.Int32)
+  nameWithType: DotNetConsole.MoveCursorDown(Int32)
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.MoveCursorDown*
+  name: MoveCursorDown
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_MoveCursorDown_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.MoveCursorDown
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.MoveCursorDown
+  nameWithType: DotNetConsole.MoveCursorDown
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.MoveCursorUp(System.Int32)
+  name: MoveCursorUp(Int32)
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_MoveCursorUp_System_Int32_
+  commentId: M:Dotnet.Shell.Logic.Console.DotNetConsole.MoveCursorUp(System.Int32)
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.MoveCursorUp(System.Int32)
+  nameWithType: DotNetConsole.MoveCursorUp(Int32)
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.MoveCursorUp*
+  name: MoveCursorUp
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_MoveCursorUp_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.MoveCursorUp
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.MoveCursorUp
+  nameWithType: DotNetConsole.MoveCursorUp
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.ReadKey
+  name: ReadKey()
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_ReadKey
+  commentId: M:Dotnet.Shell.Logic.Console.DotNetConsole.ReadKey
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.ReadKey()
+  nameWithType: DotNetConsole.ReadKey()
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.ReadKey*
+  name: ReadKey
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_ReadKey_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.ReadKey
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.ReadKey
+  nameWithType: DotNetConsole.ReadKey
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.RestoreAsync
+  name: RestoreAsync()
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_RestoreAsync
+  commentId: M:Dotnet.Shell.Logic.Console.DotNetConsole.RestoreAsync
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.RestoreAsync()
+  nameWithType: DotNetConsole.RestoreAsync()
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.RestoreAsync*
+  name: RestoreAsync
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_RestoreAsync_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.RestoreAsync
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.RestoreAsync
+  nameWithType: DotNetConsole.RestoreAsync
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.RestoreCursorPosition(System.Action)
+  name: RestoreCursorPosition(Action)
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_RestoreCursorPosition_System_Action_
+  commentId: M:Dotnet.Shell.Logic.Console.DotNetConsole.RestoreCursorPosition(System.Action)
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.RestoreCursorPosition(System.Action)
+  nameWithType: DotNetConsole.RestoreCursorPosition(Action)
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.RestoreCursorPosition*
+  name: RestoreCursorPosition
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_RestoreCursorPosition_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.RestoreCursorPosition
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.RestoreCursorPosition
+  nameWithType: DotNetConsole.RestoreCursorPosition
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.SaveAsync
+  name: SaveAsync()
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_SaveAsync
+  commentId: M:Dotnet.Shell.Logic.Console.DotNetConsole.SaveAsync
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.SaveAsync()
+  nameWithType: DotNetConsole.SaveAsync()
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.SaveAsync*
+  name: SaveAsync
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_SaveAsync_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.SaveAsync
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.SaveAsync
+  nameWithType: DotNetConsole.SaveAsync
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.SaveCursorPosition
+  name: SaveCursorPosition()
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_SaveCursorPosition
+  commentId: M:Dotnet.Shell.Logic.Console.DotNetConsole.SaveCursorPosition
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.SaveCursorPosition()
+  nameWithType: DotNetConsole.SaveCursorPosition()
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.SaveCursorPosition*
+  name: SaveCursorPosition
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_SaveCursorPosition_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.SaveCursorPosition
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.SaveCursorPosition
+  nameWithType: DotNetConsole.SaveCursorPosition
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.Write(System.String)
+  name: Write(String)
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_Write_System_String_
+  commentId: M:Dotnet.Shell.Logic.Console.DotNetConsole.Write(System.String)
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.Write(System.String)
+  nameWithType: DotNetConsole.Write(String)
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.Write*
+  name: Write
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_Write_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.Write
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.Write
+  nameWithType: DotNetConsole.Write
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.WriteLine(System.String)
+  name: WriteLine(String)
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_WriteLine_System_String_
+  commentId: M:Dotnet.Shell.Logic.Console.DotNetConsole.WriteLine(System.String)
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.WriteLine(System.String)
+  nameWithType: DotNetConsole.WriteLine(String)
+- uid: Dotnet.Shell.Logic.Console.DotNetConsole.WriteLine*
+  name: WriteLine
+  href: api/Dotnet.Shell.Logic.Console.DotNetConsole.html#Dotnet_Shell_Logic_Console_DotNetConsole_WriteLine_
+  commentId: Overload:Dotnet.Shell.Logic.Console.DotNetConsole.WriteLine
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.DotNetConsole.WriteLine
+  nameWithType: DotNetConsole.WriteLine
 - uid: Dotnet.Shell.Logic.Console.IConsole
   name: IConsole
   href: api/Dotnet.Shell.Logic.Console.IConsole.html
@@ -596,6 +1247,19 @@ references:
   isSpec: "True"
   fullName: Dotnet.Shell.Logic.Console.IConsole.BackgroundColor
   nameWithType: IConsole.BackgroundColor
+- uid: Dotnet.Shell.Logic.Console.IConsole.ClearCurrentLine(System.Int32)
+  name: ClearCurrentLine(Int32)
+  href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_ClearCurrentLine_System_Int32_
+  commentId: M:Dotnet.Shell.Logic.Console.IConsole.ClearCurrentLine(System.Int32)
+  fullName: Dotnet.Shell.Logic.Console.IConsole.ClearCurrentLine(System.Int32)
+  nameWithType: IConsole.ClearCurrentLine(Int32)
+- uid: Dotnet.Shell.Logic.Console.IConsole.ClearCurrentLine*
+  name: ClearCurrentLine
+  href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_ClearCurrentLine_
+  commentId: Overload:Dotnet.Shell.Logic.Console.IConsole.ClearCurrentLine
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.IConsole.ClearCurrentLine
+  nameWithType: IConsole.ClearCurrentLine
 - uid: Dotnet.Shell.Logic.Console.IConsole.CursorLeft
   name: CursorLeft
   href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_CursorLeft
@@ -661,6 +1325,32 @@ references:
   isSpec: "True"
   fullName: Dotnet.Shell.Logic.Console.IConsole.KeyAvailiable
   nameWithType: IConsole.KeyAvailiable
+- uid: Dotnet.Shell.Logic.Console.IConsole.MoveCursorDown(System.Int32)
+  name: MoveCursorDown(Int32)
+  href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_MoveCursorDown_System_Int32_
+  commentId: M:Dotnet.Shell.Logic.Console.IConsole.MoveCursorDown(System.Int32)
+  fullName: Dotnet.Shell.Logic.Console.IConsole.MoveCursorDown(System.Int32)
+  nameWithType: IConsole.MoveCursorDown(Int32)
+- uid: Dotnet.Shell.Logic.Console.IConsole.MoveCursorDown*
+  name: MoveCursorDown
+  href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_MoveCursorDown_
+  commentId: Overload:Dotnet.Shell.Logic.Console.IConsole.MoveCursorDown
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.IConsole.MoveCursorDown
+  nameWithType: IConsole.MoveCursorDown
+- uid: Dotnet.Shell.Logic.Console.IConsole.MoveCursorUp(System.Int32)
+  name: MoveCursorUp(Int32)
+  href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_MoveCursorUp_System_Int32_
+  commentId: M:Dotnet.Shell.Logic.Console.IConsole.MoveCursorUp(System.Int32)
+  fullName: Dotnet.Shell.Logic.Console.IConsole.MoveCursorUp(System.Int32)
+  nameWithType: IConsole.MoveCursorUp(Int32)
+- uid: Dotnet.Shell.Logic.Console.IConsole.MoveCursorUp*
+  name: MoveCursorUp
+  href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_MoveCursorUp_
+  commentId: Overload:Dotnet.Shell.Logic.Console.IConsole.MoveCursorUp
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.IConsole.MoveCursorUp
+  nameWithType: IConsole.MoveCursorUp
 - uid: Dotnet.Shell.Logic.Console.IConsole.ReadKey
   name: ReadKey()
   href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_ReadKey
@@ -687,6 +1377,19 @@ references:
   isSpec: "True"
   fullName: Dotnet.Shell.Logic.Console.IConsole.RestoreAsync
   nameWithType: IConsole.RestoreAsync
+- uid: Dotnet.Shell.Logic.Console.IConsole.RestoreCursorPosition(System.Action)
+  name: RestoreCursorPosition(Action)
+  href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_RestoreCursorPosition_System_Action_
+  commentId: M:Dotnet.Shell.Logic.Console.IConsole.RestoreCursorPosition(System.Action)
+  fullName: Dotnet.Shell.Logic.Console.IConsole.RestoreCursorPosition(System.Action)
+  nameWithType: IConsole.RestoreCursorPosition(Action)
+- uid: Dotnet.Shell.Logic.Console.IConsole.RestoreCursorPosition*
+  name: RestoreCursorPosition
+  href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_RestoreCursorPosition_
+  commentId: Overload:Dotnet.Shell.Logic.Console.IConsole.RestoreCursorPosition
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.IConsole.RestoreCursorPosition
+  nameWithType: IConsole.RestoreCursorPosition
 - uid: Dotnet.Shell.Logic.Console.IConsole.SaveAsync
   name: SaveAsync()
   href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_SaveAsync
@@ -700,6 +1403,19 @@ references:
   isSpec: "True"
   fullName: Dotnet.Shell.Logic.Console.IConsole.SaveAsync
   nameWithType: IConsole.SaveAsync
+- uid: Dotnet.Shell.Logic.Console.IConsole.SaveCursorPosition
+  name: SaveCursorPosition()
+  href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_SaveCursorPosition
+  commentId: M:Dotnet.Shell.Logic.Console.IConsole.SaveCursorPosition
+  fullName: Dotnet.Shell.Logic.Console.IConsole.SaveCursorPosition()
+  nameWithType: IConsole.SaveCursorPosition()
+- uid: Dotnet.Shell.Logic.Console.IConsole.SaveCursorPosition*
+  name: SaveCursorPosition
+  href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_SaveCursorPosition_
+  commentId: Overload:Dotnet.Shell.Logic.Console.IConsole.SaveCursorPosition
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Console.IConsole.SaveCursorPosition
+  nameWithType: IConsole.SaveCursorPosition
 - uid: Dotnet.Shell.Logic.Console.IConsole.WindowHeight
   name: WindowHeight
   href: api/Dotnet.Shell.Logic.Console.IConsole.html#Dotnet_Shell_Logic_Console_IConsole_WindowHeight
@@ -1288,6 +2004,38 @@ references:
   isSpec: "True"
   fullName: Dotnet.Shell.Logic.Suggestions.Suggestion.Index
   nameWithType: Suggestion.Index
+- uid: Dotnet.Shell.Logic.Suggestions.Suggestions
+  name: Suggestions
+  href: api/Dotnet.Shell.Logic.Suggestions.Suggestions.html
+  commentId: T:Dotnet.Shell.Logic.Suggestions.Suggestions
+  fullName: Dotnet.Shell.Logic.Suggestions.Suggestions
+  nameWithType: Suggestions
+- uid: Dotnet.Shell.Logic.Suggestions.Suggestions.#ctor(Dotnet.Shell.API.Shell)
+  name: Suggestions(Shell)
+  href: api/Dotnet.Shell.Logic.Suggestions.Suggestions.html#Dotnet_Shell_Logic_Suggestions_Suggestions__ctor_Dotnet_Shell_API_Shell_
+  commentId: M:Dotnet.Shell.Logic.Suggestions.Suggestions.#ctor(Dotnet.Shell.API.Shell)
+  fullName: Dotnet.Shell.Logic.Suggestions.Suggestions.Suggestions(Dotnet.Shell.API.Shell)
+  nameWithType: Suggestions.Suggestions(Shell)
+- uid: Dotnet.Shell.Logic.Suggestions.Suggestions.#ctor*
+  name: Suggestions
+  href: api/Dotnet.Shell.Logic.Suggestions.Suggestions.html#Dotnet_Shell_Logic_Suggestions_Suggestions__ctor_
+  commentId: Overload:Dotnet.Shell.Logic.Suggestions.Suggestions.#ctor
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Suggestions.Suggestions.Suggestions
+  nameWithType: Suggestions.Suggestions
+- uid: Dotnet.Shell.Logic.Suggestions.Suggestions.OnTabSuggestCmdAsync(Dotnet.Shell.Logic.Console.ConsoleImproved,Dotnet.Shell.Logic.Console.ConsoleKeyEx)
+  name: OnTabSuggestCmdAsync(ConsoleImproved, ConsoleKeyEx)
+  href: api/Dotnet.Shell.Logic.Suggestions.Suggestions.html#Dotnet_Shell_Logic_Suggestions_Suggestions_OnTabSuggestCmdAsync_Dotnet_Shell_Logic_Console_ConsoleImproved_Dotnet_Shell_Logic_Console_ConsoleKeyEx_
+  commentId: M:Dotnet.Shell.Logic.Suggestions.Suggestions.OnTabSuggestCmdAsync(Dotnet.Shell.Logic.Console.ConsoleImproved,Dotnet.Shell.Logic.Console.ConsoleKeyEx)
+  fullName: Dotnet.Shell.Logic.Suggestions.Suggestions.OnTabSuggestCmdAsync(Dotnet.Shell.Logic.Console.ConsoleImproved, Dotnet.Shell.Logic.Console.ConsoleKeyEx)
+  nameWithType: Suggestions.OnTabSuggestCmdAsync(ConsoleImproved, ConsoleKeyEx)
+- uid: Dotnet.Shell.Logic.Suggestions.Suggestions.OnTabSuggestCmdAsync*
+  name: OnTabSuggestCmdAsync
+  href: api/Dotnet.Shell.Logic.Suggestions.Suggestions.html#Dotnet_Shell_Logic_Suggestions_Suggestions_OnTabSuggestCmdAsync_
+  commentId: Overload:Dotnet.Shell.Logic.Suggestions.Suggestions.OnTabSuggestCmdAsync
+  isSpec: "True"
+  fullName: Dotnet.Shell.Logic.Suggestions.Suggestions.OnTabSuggestCmdAsync
+  nameWithType: Suggestions.OnTabSuggestCmdAsync
 - uid: Dotnet.Shell.Logic.UserExperience
   name: UserExperience
   href: api/Dotnet.Shell.Logic.UserExperience.html
@@ -1482,3 +2230,227 @@ references:
   isSpec: "True"
   fullName: Dotnet.Shell.UI.ColorString.ToString
   nameWithType: ColorString.ToString
+- uid: Dotnet.Shell.UI.Enhanced
+  name: Dotnet.Shell.UI.Enhanced
+  href: api/Dotnet.Shell.UI.Enhanced.html
+  commentId: N:Dotnet.Shell.UI.Enhanced
+  fullName: Dotnet.Shell.UI.Enhanced
+  nameWithType: Dotnet.Shell.UI.Enhanced
+- uid: Dotnet.Shell.UI.Enhanced.HistoryBox
+  name: HistoryBox
+  href: api/Dotnet.Shell.UI.Enhanced.HistoryBox.html
+  commentId: T:Dotnet.Shell.UI.Enhanced.HistoryBox
+  fullName: Dotnet.Shell.UI.Enhanced.HistoryBox
+  nameWithType: HistoryBox
+- uid: Dotnet.Shell.UI.Enhanced.HistoryBox.#ctor(Dotnet.Shell.Logic.Console.IConsole)
+  name: HistoryBox(IConsole)
+  href: api/Dotnet.Shell.UI.Enhanced.HistoryBox.html#Dotnet_Shell_UI_Enhanced_HistoryBox__ctor_Dotnet_Shell_Logic_Console_IConsole_
+  commentId: M:Dotnet.Shell.UI.Enhanced.HistoryBox.#ctor(Dotnet.Shell.Logic.Console.IConsole)
+  fullName: Dotnet.Shell.UI.Enhanced.HistoryBox.HistoryBox(Dotnet.Shell.Logic.Console.IConsole)
+  nameWithType: HistoryBox.HistoryBox(IConsole)
+- uid: Dotnet.Shell.UI.Enhanced.HistoryBox.#ctor*
+  name: HistoryBox
+  href: api/Dotnet.Shell.UI.Enhanced.HistoryBox.html#Dotnet_Shell_UI_Enhanced_HistoryBox__ctor_
+  commentId: Overload:Dotnet.Shell.UI.Enhanced.HistoryBox.#ctor
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.Enhanced.HistoryBox.HistoryBox
+  nameWithType: HistoryBox.HistoryBox
+- uid: Dotnet.Shell.UI.Enhanced.HistoryBox.OnInput(ConsoleGUI.Input.InputEvent)
+  name: OnInput(InputEvent)
+  href: api/Dotnet.Shell.UI.Enhanced.HistoryBox.html#Dotnet_Shell_UI_Enhanced_HistoryBox_OnInput_ConsoleGUI_Input_InputEvent_
+  commentId: M:Dotnet.Shell.UI.Enhanced.HistoryBox.OnInput(ConsoleGUI.Input.InputEvent)
+  fullName: Dotnet.Shell.UI.Enhanced.HistoryBox.OnInput(ConsoleGUI.Input.InputEvent)
+  nameWithType: HistoryBox.OnInput(InputEvent)
+- uid: Dotnet.Shell.UI.Enhanced.HistoryBox.OnInput*
+  name: OnInput
+  href: api/Dotnet.Shell.UI.Enhanced.HistoryBox.html#Dotnet_Shell_UI_Enhanced_HistoryBox_OnInput_
+  commentId: Overload:Dotnet.Shell.UI.Enhanced.HistoryBox.OnInput
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.Enhanced.HistoryBox.OnInput
+  nameWithType: HistoryBox.OnInput
+- uid: Dotnet.Shell.UI.Enhanced.HistoryBox.OnSearchHistory(Dotnet.Shell.Logic.Console.IConsole)
+  name: OnSearchHistory(IConsole)
+  href: api/Dotnet.Shell.UI.Enhanced.HistoryBox.html#Dotnet_Shell_UI_Enhanced_HistoryBox_OnSearchHistory_Dotnet_Shell_Logic_Console_IConsole_
+  commentId: M:Dotnet.Shell.UI.Enhanced.HistoryBox.OnSearchHistory(Dotnet.Shell.Logic.Console.IConsole)
+  fullName: Dotnet.Shell.UI.Enhanced.HistoryBox.OnSearchHistory(Dotnet.Shell.Logic.Console.IConsole)
+  nameWithType: HistoryBox.OnSearchHistory(IConsole)
+- uid: Dotnet.Shell.UI.Enhanced.HistoryBox.OnSearchHistory*
+  name: OnSearchHistory
+  href: api/Dotnet.Shell.UI.Enhanced.HistoryBox.html#Dotnet_Shell_UI_Enhanced_HistoryBox_OnSearchHistory_
+  commentId: Overload:Dotnet.Shell.UI.Enhanced.HistoryBox.OnSearchHistory
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.Enhanced.HistoryBox.OnSearchHistory
+  nameWithType: HistoryBox.OnSearchHistory
+- uid: Dotnet.Shell.UI.Enhanced.HistoryBox.OnSearchHistoryTmux
+  name: OnSearchHistoryTmux()
+  href: api/Dotnet.Shell.UI.Enhanced.HistoryBox.html#Dotnet_Shell_UI_Enhanced_HistoryBox_OnSearchHistoryTmux
+  commentId: M:Dotnet.Shell.UI.Enhanced.HistoryBox.OnSearchHistoryTmux
+  fullName: Dotnet.Shell.UI.Enhanced.HistoryBox.OnSearchHistoryTmux()
+  nameWithType: HistoryBox.OnSearchHistoryTmux()
+- uid: Dotnet.Shell.UI.Enhanced.HistoryBox.OnSearchHistoryTmux*
+  name: OnSearchHistoryTmux
+  href: api/Dotnet.Shell.UI.Enhanced.HistoryBox.html#Dotnet_Shell_UI_Enhanced_HistoryBox_OnSearchHistoryTmux_
+  commentId: Overload:Dotnet.Shell.UI.Enhanced.HistoryBox.OnSearchHistoryTmux
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.Enhanced.HistoryBox.OnSearchHistoryTmux
+  nameWithType: HistoryBox.OnSearchHistoryTmux
+- uid: Dotnet.Shell.UI.Enhanced.HistoryBox.RunInterfaceAsync(System.Collections.Generic.List{Dotnet.Shell.API.HistoryItem})
+  name: RunInterfaceAsync(List<HistoryItem>)
+  href: api/Dotnet.Shell.UI.Enhanced.HistoryBox.html#Dotnet_Shell_UI_Enhanced_HistoryBox_RunInterfaceAsync_System_Collections_Generic_List_Dotnet_Shell_API_HistoryItem__
+  commentId: M:Dotnet.Shell.UI.Enhanced.HistoryBox.RunInterfaceAsync(System.Collections.Generic.List{Dotnet.Shell.API.HistoryItem})
+  name.vb: RunInterfaceAsync(List(Of HistoryItem))
+  fullName: Dotnet.Shell.UI.Enhanced.HistoryBox.RunInterfaceAsync(System.Collections.Generic.List<Dotnet.Shell.API.HistoryItem>)
+  fullName.vb: Dotnet.Shell.UI.Enhanced.HistoryBox.RunInterfaceAsync(System.Collections.Generic.List(Of Dotnet.Shell.API.HistoryItem))
+  nameWithType: HistoryBox.RunInterfaceAsync(List<HistoryItem>)
+  nameWithType.vb: HistoryBox.RunInterfaceAsync(List(Of HistoryItem))
+- uid: Dotnet.Shell.UI.Enhanced.HistoryBox.RunInterfaceAsync*
+  name: RunInterfaceAsync
+  href: api/Dotnet.Shell.UI.Enhanced.HistoryBox.html#Dotnet_Shell_UI_Enhanced_HistoryBox_RunInterfaceAsync_
+  commentId: Overload:Dotnet.Shell.UI.Enhanced.HistoryBox.RunInterfaceAsync
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.Enhanced.HistoryBox.RunInterfaceAsync
+  nameWithType: HistoryBox.RunInterfaceAsync
+- uid: Dotnet.Shell.UI.ErrorDisplay
+  name: ErrorDisplay
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html
+  commentId: T:Dotnet.Shell.UI.ErrorDisplay
+  fullName: Dotnet.Shell.UI.ErrorDisplay
+  nameWithType: ErrorDisplay
+- uid: Dotnet.Shell.UI.ErrorDisplay.#ctor(Dotnet.Shell.Logic.Console.IConsole)
+  name: ErrorDisplay(IConsole)
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay__ctor_Dotnet_Shell_Logic_Console_IConsole_
+  commentId: M:Dotnet.Shell.UI.ErrorDisplay.#ctor(Dotnet.Shell.Logic.Console.IConsole)
+  fullName: Dotnet.Shell.UI.ErrorDisplay.ErrorDisplay(Dotnet.Shell.Logic.Console.IConsole)
+  nameWithType: ErrorDisplay.ErrorDisplay(IConsole)
+- uid: Dotnet.Shell.UI.ErrorDisplay.#ctor*
+  name: ErrorDisplay
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay__ctor_
+  commentId: Overload:Dotnet.Shell.UI.ErrorDisplay.#ctor
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.ErrorDisplay.ErrorDisplay
+  nameWithType: ErrorDisplay.ErrorDisplay
+- uid: Dotnet.Shell.UI.ErrorDisplay.CurrentValue
+  name: CurrentValue
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_CurrentValue
+  commentId: P:Dotnet.Shell.UI.ErrorDisplay.CurrentValue
+  fullName: Dotnet.Shell.UI.ErrorDisplay.CurrentValue
+  nameWithType: ErrorDisplay.CurrentValue
+- uid: Dotnet.Shell.UI.ErrorDisplay.CurrentValue*
+  name: CurrentValue
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_CurrentValue_
+  commentId: Overload:Dotnet.Shell.UI.ErrorDisplay.CurrentValue
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.ErrorDisplay.CurrentValue
+  nameWithType: ErrorDisplay.CurrentValue
+- uid: Dotnet.Shell.UI.ErrorDisplay.Get(System.String)
+  name: Get(String)
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_Get_System_String_
+  commentId: M:Dotnet.Shell.UI.ErrorDisplay.Get(System.String)
+  fullName: Dotnet.Shell.UI.ErrorDisplay.Get(System.String)
+  nameWithType: ErrorDisplay.Get(String)
+- uid: Dotnet.Shell.UI.ErrorDisplay.Get*
+  name: Get
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_Get_
+  commentId: Overload:Dotnet.Shell.UI.ErrorDisplay.Get
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.ErrorDisplay.Get
+  nameWithType: ErrorDisplay.Get
+- uid: Dotnet.Shell.UI.ErrorDisplay.OnChange(System.Action{Microsoft.Extensions.Logging.Console.ConsoleLoggerOptions,System.String})
+  name: OnChange(Action<ConsoleLoggerOptions, String>)
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_OnChange_System_Action_Microsoft_Extensions_Logging_Console_ConsoleLoggerOptions_System_String__
+  commentId: M:Dotnet.Shell.UI.ErrorDisplay.OnChange(System.Action{Microsoft.Extensions.Logging.Console.ConsoleLoggerOptions,System.String})
+  name.vb: OnChange(Action(Of ConsoleLoggerOptions, String))
+  fullName: Dotnet.Shell.UI.ErrorDisplay.OnChange(System.Action<Microsoft.Extensions.Logging.Console.ConsoleLoggerOptions, System.String>)
+  fullName.vb: Dotnet.Shell.UI.ErrorDisplay.OnChange(System.Action(Of Microsoft.Extensions.Logging.Console.ConsoleLoggerOptions, System.String))
+  nameWithType: ErrorDisplay.OnChange(Action<ConsoleLoggerOptions, String>)
+  nameWithType.vb: ErrorDisplay.OnChange(Action(Of ConsoleLoggerOptions, String))
+- uid: Dotnet.Shell.UI.ErrorDisplay.OnChange*
+  name: OnChange
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_OnChange_
+  commentId: Overload:Dotnet.Shell.UI.ErrorDisplay.OnChange
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.ErrorDisplay.OnChange
+  nameWithType: ErrorDisplay.OnChange
+- uid: Dotnet.Shell.UI.ErrorDisplay.PrettyError(Dotnet.Shell.UI.ColorString)
+  name: PrettyError(ColorString)
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_PrettyError_Dotnet_Shell_UI_ColorString_
+  commentId: M:Dotnet.Shell.UI.ErrorDisplay.PrettyError(Dotnet.Shell.UI.ColorString)
+  fullName: Dotnet.Shell.UI.ErrorDisplay.PrettyError(Dotnet.Shell.UI.ColorString)
+  nameWithType: ErrorDisplay.PrettyError(ColorString)
+- uid: Dotnet.Shell.UI.ErrorDisplay.PrettyError(System.String)
+  name: PrettyError(String)
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_PrettyError_System_String_
+  commentId: M:Dotnet.Shell.UI.ErrorDisplay.PrettyError(System.String)
+  fullName: Dotnet.Shell.UI.ErrorDisplay.PrettyError(System.String)
+  nameWithType: ErrorDisplay.PrettyError(String)
+- uid: Dotnet.Shell.UI.ErrorDisplay.PrettyError*
+  name: PrettyError
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_PrettyError_
+  commentId: Overload:Dotnet.Shell.UI.ErrorDisplay.PrettyError
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.ErrorDisplay.PrettyError
+  nameWithType: ErrorDisplay.PrettyError
+- uid: Dotnet.Shell.UI.ErrorDisplay.PrettyException(System.Exception,System.String,System.String)
+  name: PrettyException(Exception, String, String)
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_PrettyException_System_Exception_System_String_System_String_
+  commentId: M:Dotnet.Shell.UI.ErrorDisplay.PrettyException(System.Exception,System.String,System.String)
+  fullName: Dotnet.Shell.UI.ErrorDisplay.PrettyException(System.Exception, System.String, System.String)
+  nameWithType: ErrorDisplay.PrettyException(Exception, String, String)
+- uid: Dotnet.Shell.UI.ErrorDisplay.PrettyException*
+  name: PrettyException
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_PrettyException_
+  commentId: Overload:Dotnet.Shell.UI.ErrorDisplay.PrettyException
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.ErrorDisplay.PrettyException
+  nameWithType: ErrorDisplay.PrettyException
+- uid: Dotnet.Shell.UI.ErrorDisplay.PrettyInfo(System.String)
+  name: PrettyInfo(String)
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_PrettyInfo_System_String_
+  commentId: M:Dotnet.Shell.UI.ErrorDisplay.PrettyInfo(System.String)
+  fullName: Dotnet.Shell.UI.ErrorDisplay.PrettyInfo(System.String)
+  nameWithType: ErrorDisplay.PrettyInfo(String)
+- uid: Dotnet.Shell.UI.ErrorDisplay.PrettyInfo*
+  name: PrettyInfo
+  href: api/Dotnet.Shell.UI.ErrorDisplay.html#Dotnet_Shell_UI_ErrorDisplay_PrettyInfo_
+  commentId: Overload:Dotnet.Shell.UI.ErrorDisplay.PrettyInfo
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.ErrorDisplay.PrettyInfo
+  nameWithType: ErrorDisplay.PrettyInfo
+- uid: Dotnet.Shell.UI.Standard
+  name: Dotnet.Shell.UI.Standard
+  href: api/Dotnet.Shell.UI.Standard.html
+  commentId: N:Dotnet.Shell.UI.Standard
+  fullName: Dotnet.Shell.UI.Standard
+  nameWithType: Dotnet.Shell.UI.Standard
+- uid: Dotnet.Shell.UI.Standard.HistorySearch
+  name: HistorySearch
+  href: api/Dotnet.Shell.UI.Standard.HistorySearch.html
+  commentId: T:Dotnet.Shell.UI.Standard.HistorySearch
+  fullName: Dotnet.Shell.UI.Standard.HistorySearch
+  nameWithType: HistorySearch
+- uid: Dotnet.Shell.UI.Standard.HistorySearch.#ctor(Dotnet.Shell.Logic.Console.IConsole,Dotnet.Shell.API.Shell)
+  name: HistorySearch(IConsole, Shell)
+  href: api/Dotnet.Shell.UI.Standard.HistorySearch.html#Dotnet_Shell_UI_Standard_HistorySearch__ctor_Dotnet_Shell_Logic_Console_IConsole_Dotnet_Shell_API_Shell_
+  commentId: M:Dotnet.Shell.UI.Standard.HistorySearch.#ctor(Dotnet.Shell.Logic.Console.IConsole,Dotnet.Shell.API.Shell)
+  fullName: Dotnet.Shell.UI.Standard.HistorySearch.HistorySearch(Dotnet.Shell.Logic.Console.IConsole, Dotnet.Shell.API.Shell)
+  nameWithType: HistorySearch.HistorySearch(IConsole, Shell)
+- uid: Dotnet.Shell.UI.Standard.HistorySearch.#ctor*
+  name: HistorySearch
+  href: api/Dotnet.Shell.UI.Standard.HistorySearch.html#Dotnet_Shell_UI_Standard_HistorySearch__ctor_
+  commentId: Overload:Dotnet.Shell.UI.Standard.HistorySearch.#ctor
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.Standard.HistorySearch.HistorySearch
+  nameWithType: HistorySearch.HistorySearch
+- uid: Dotnet.Shell.UI.Standard.HistorySearch.OnSearchHistory(Dotnet.Shell.Logic.Console.IConsole,Dotnet.Shell.API.Shell)
+  name: OnSearchHistory(IConsole, Shell)
+  href: api/Dotnet.Shell.UI.Standard.HistorySearch.html#Dotnet_Shell_UI_Standard_HistorySearch_OnSearchHistory_Dotnet_Shell_Logic_Console_IConsole_Dotnet_Shell_API_Shell_
+  commentId: M:Dotnet.Shell.UI.Standard.HistorySearch.OnSearchHistory(Dotnet.Shell.Logic.Console.IConsole,Dotnet.Shell.API.Shell)
+  fullName: Dotnet.Shell.UI.Standard.HistorySearch.OnSearchHistory(Dotnet.Shell.Logic.Console.IConsole, Dotnet.Shell.API.Shell)
+  nameWithType: HistorySearch.OnSearchHistory(IConsole, Shell)
+- uid: Dotnet.Shell.UI.Standard.HistorySearch.OnSearchHistory*
+  name: OnSearchHistory
+  href: api/Dotnet.Shell.UI.Standard.HistorySearch.html#Dotnet_Shell_UI_Standard_HistorySearch_OnSearchHistory_
+  commentId: Overload:Dotnet.Shell.UI.Standard.HistorySearch.OnSearchHistory
+  isSpec: "True"
+  fullName: Dotnet.Shell.UI.Standard.HistorySearch.OnSearchHistory
+  nameWithType: HistorySearch.OnSearchHistory

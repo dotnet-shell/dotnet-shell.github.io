@@ -130,7 +130,7 @@
     </div>
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="Dotnet.Shell.API.html">Dotnet.Shell.API</a></h6>
-  <h6><strong>Assembly</strong>: dotnet-shell.dll</h6>
+  <h6><strong>Assembly</strong>: dotnet-shell-lib.dll</h6>
   <h5 id="Dotnet_Shell_API_Shell_syntax">Syntax</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public class Shell</code></pre>
@@ -142,7 +142,7 @@
     <a href="https://github.com/dotnet-shell/Shell/new/master/apiSpec/new?filename=Dotnet_Shell_API_Shell__ctor_System_Boolean_.md&amp;value=---%0Auid%3A%20Dotnet.Shell.API.Shell.%23ctor(System.Boolean)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L156">View Source</a>
+    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L160">View Source</a>
   </span>
   <a id="Dotnet_Shell_API_Shell__ctor_" data-uid="Dotnet.Shell.API.Shell.#ctor*"></a>
   <h4 id="Dotnet_Shell_API_Shell__ctor_System_Boolean_" data-uid="Dotnet.Shell.API.Shell.#ctor(System.Boolean)">Shell(Boolean)</h4>
@@ -234,6 +234,36 @@
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
+    <a href="https://github.com/dotnet-shell/Shell/new/master/apiSpec/new?filename=Dotnet_Shell_API_Shell_HistoryLoadedTask.md&amp;value=---%0Auid%3A%20Dotnet.Shell.API.Shell.HistoryLoadedTask%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L147">View Source</a>
+  </span>
+  <h4 id="Dotnet_Shell_API_Shell_HistoryLoadedTask" data-uid="Dotnet.Shell.API.Shell.HistoryLoadedTask">HistoryLoadedTask</h4>
+  <div class="markdown level1 summary"><p>The history loaded task, wait on this to ensure all history elements have been loaded into memory</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Task HistoryLoadedTask</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Threading.Tasks.Task</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
     <a href="https://github.com/dotnet-shell/Shell/new/master/apiSpec/new?filename=Dotnet_Shell_API_Shell_LastExecutedProcess.md&amp;value=---%0Auid%3A%20Dotnet.Shell.API.Shell.LastExecutedProcess%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
@@ -310,7 +340,7 @@
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public List&lt;Func&lt;string, int, Task&lt;IEnumerable&lt;Suggestion&gt;&gt;&gt;&gt; AutoCompletionHandlers { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public virtual List&lt;Func&lt;string, int, Task&lt;IEnumerable&lt;Suggestion&gt;&gt;&gt;&gt; AutoCompletionHandlers { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -407,7 +437,7 @@ replace what was entered</p>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public List&lt;Func&lt;string, string&gt;&gt; CommandHandlers { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public virtual List&lt;Func&lt;string, string&gt;&gt; CommandHandlers { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -470,7 +500,7 @@ replace what was entered</p>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public List&lt;HistoryItem&gt; History { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public virtual List&lt;HistoryItem&gt; History { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -501,7 +531,7 @@ replace what was entered</p>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public string HomeDirectory { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public virtual string HomeDirectory { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -717,7 +747,7 @@ This function is generally set by the user to customize the prompt</p>
     <a href="https://github.com/dotnet-shell/Shell/new/master/apiSpec/new?filename=Dotnet_Shell_API_Shell_AddCmdAlias_System_String_System_String_.md&amp;value=---%0Auid%3A%20Dotnet.Shell.API.Shell.AddCmdAlias(System.String%2CSystem.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L205">View Source</a>
+    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L209">View Source</a>
   </span>
   <a id="Dotnet_Shell_API_Shell_AddCmdAlias_" data-uid="Dotnet.Shell.API.Shell.AddCmdAlias*"></a>
   <h4 id="Dotnet_Shell_API_Shell_AddCmdAlias_System_String_System_String_" data-uid="Dotnet.Shell.API.Shell.AddCmdAlias(System.String,System.String)">AddCmdAlias(String, String)</h4>
@@ -758,7 +788,7 @@ An example of this is Shell.AddCmdAlias(&quot;ls&quot;, &quot;ls --color=auto &q
     <a href="https://github.com/dotnet-shell/Shell/new/master/apiSpec/new?filename=Dotnet_Shell_API_Shell_AddCSAlias_System_String_System_String_.md&amp;value=---%0Auid%3A%20Dotnet.Shell.API.Shell.AddCSAlias(System.String%2CSystem.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L181">View Source</a>
+    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L185">View Source</a>
   </span>
   <a id="Dotnet_Shell_API_Shell_AddCSAlias_" data-uid="Dotnet.Shell.API.Shell.AddCSAlias*"></a>
   <h4 id="Dotnet_Shell_API_Shell_AddCSAlias_System_String_System_String_" data-uid="Dotnet.Shell.API.Shell.AddCSAlias(System.String,System.String)">AddCSAlias(String, String)</h4>
@@ -799,7 +829,7 @@ An example of this is Shell.AddCSAlias(&quot;echo&quot;, &quot;Console.WriteLine
     <a href="https://github.com/dotnet-shell/Shell/new/master/apiSpec/new?filename=Dotnet_Shell_API_Shell_ChangeDir_System_String_.md&amp;value=---%0Auid%3A%20Dotnet.Shell.API.Shell.ChangeDir(System.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L238">View Source</a>
+    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L242">View Source</a>
   </span>
   <a id="Dotnet_Shell_API_Shell_ChangeDir_" data-uid="Dotnet.Shell.API.Shell.ChangeDir*"></a>
   <h4 id="Dotnet_Shell_API_Shell_ChangeDir_System_String_" data-uid="Dotnet.Shell.API.Shell.ChangeDir(System.String)">ChangeDir(String)</h4>
@@ -848,7 +878,7 @@ An example of this is Shell.AddCSAlias(&quot;echo&quot;, &quot;Console.WriteLine
     <a href="https://github.com/dotnet-shell/Shell/new/master/apiSpec/new?filename=Dotnet_Shell_API_Shell_ConvertPathToAbsolute_System_String_.md&amp;value=---%0Auid%3A%20Dotnet.Shell.API.Shell.ConvertPathToAbsolute(System.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L268">View Source</a>
+    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L272">View Source</a>
   </span>
   <a id="Dotnet_Shell_API_Shell_ConvertPathToAbsolute_" data-uid="Dotnet.Shell.API.Shell.ConvertPathToAbsolute*"></a>
   <h4 id="Dotnet_Shell_API_Shell_ConvertPathToAbsolute_System_String_" data-uid="Dotnet.Shell.API.Shell.ConvertPathToAbsolute(System.String)">ConvertPathToAbsolute(String)</h4>
@@ -914,7 +944,7 @@ This is a public API and is used in #load</p>
     <a href="https://github.com/dotnet-shell/Shell/new/master/apiSpec/new?filename=Dotnet_Shell_API_Shell_Execute_System_String_System_Object_.md&amp;value=---%0Auid%3A%20Dotnet.Shell.API.Shell.Execute(System.String%2CSystem.Object)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L407">View Source</a>
+    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L411">View Source</a>
   </span>
   <a id="Dotnet_Shell_API_Shell_Execute_" data-uid="Dotnet.Shell.API.Shell.Execute*"></a>
   <h4 id="Dotnet_Shell_API_Shell_Execute_System_String_System_Object_" data-uid="Dotnet.Shell.API.Shell.Execute(System.String,System.Object)">Execute(String, Object)</h4>
@@ -970,7 +1000,7 @@ This is a public API and is used in #load</p>
     <a href="https://github.com/dotnet-shell/Shell/new/master/apiSpec/new?filename=Dotnet_Shell_API_Shell_ExecuteAsync_System_String_System_Object_.md&amp;value=---%0Auid%3A%20Dotnet.Shell.API.Shell.ExecuteAsync(System.String%2CSystem.Object)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L388">View Source</a>
+    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L392">View Source</a>
   </span>
   <a id="Dotnet_Shell_API_Shell_ExecuteAsync_" data-uid="Dotnet.Shell.API.Shell.ExecuteAsync*"></a>
   <h4 id="Dotnet_Shell_API_Shell_ExecuteAsync_System_String_System_Object_" data-uid="Dotnet.Shell.API.Shell.ExecuteAsync(System.String,System.Object)">ExecuteAsync(String, Object)</h4>
@@ -1026,7 +1056,7 @@ This is a public API and is used in #load</p>
     <a href="https://github.com/dotnet-shell/Shell/new/master/apiSpec/new?filename=Dotnet_Shell_API_Shell_RemoveCmdAlias_System_String_.md&amp;value=---%0Auid%3A%20Dotnet.Shell.API.Shell.RemoveCmdAlias(System.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L215">View Source</a>
+    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L219">View Source</a>
   </span>
   <a id="Dotnet_Shell_API_Shell_RemoveCmdAlias_" data-uid="Dotnet.Shell.API.Shell.RemoveCmdAlias*"></a>
   <h4 id="Dotnet_Shell_API_Shell_RemoveCmdAlias_System_String_" data-uid="Dotnet.Shell.API.Shell.RemoveCmdAlias(System.String)">RemoveCmdAlias(String)</h4>
@@ -1060,7 +1090,7 @@ This is a public API and is used in #load</p>
     <a href="https://github.com/dotnet-shell/Shell/new/master/apiSpec/new?filename=Dotnet_Shell_API_Shell_RemoveCSAlias_System_String_.md&amp;value=---%0Auid%3A%20Dotnet.Shell.API.Shell.RemoveCSAlias(System.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L191">View Source</a>
+    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L195">View Source</a>
   </span>
   <a id="Dotnet_Shell_API_Shell_RemoveCSAlias_" data-uid="Dotnet.Shell.API.Shell.RemoveCSAlias*"></a>
   <h4 id="Dotnet_Shell_API_Shell_RemoveCSAlias_System_String_" data-uid="Dotnet.Shell.API.Shell.RemoveCSAlias(System.String)">RemoveCSAlias(String)</h4>
@@ -1085,6 +1115,56 @@ This is a public API and is used in #load</p>
         <td><span class="xref">System.String</span></td>
         <td><span class="parametername">command</span></td>
         <td><p>The command.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/dotnet-shell/Shell/new/master/apiSpec/new?filename=Dotnet_Shell_API_Shell_TryReplaceWithCSAlias_System_String_.md&amp;value=---%0Auid%3A%20Dotnet.Shell.API.Shell.TryReplaceWithCSAlias(System.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/dotnet-shell/Shell/blob/master/src/Shell/API/Shell.cs/#L374">View Source</a>
+  </span>
+  <a id="Dotnet_Shell_API_Shell_TryReplaceWithCSAlias_" data-uid="Dotnet.Shell.API.Shell.TryReplaceWithCSAlias*"></a>
+  <h4 id="Dotnet_Shell_API_Shell_TryReplaceWithCSAlias_System_String_" data-uid="Dotnet.Shell.API.Shell.TryReplaceWithCSAlias(System.String)">TryReplaceWithCSAlias(String)</h4>
+  <div class="markdown level1 summary"><p>Tries to replace the string with an alias which is a piece of C#</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string TryReplaceWithCSAlias(string input)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">input</span></td>
+        <td><p>The user input command</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Command with possible alias replacement</p>
 </td>
       </tr>
     </tbody>
