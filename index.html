@@ -119,10 +119,10 @@ or <a href="https://github.com/yevhen/Nake/blob/master/README.md">nake</a> you w
 <li><a href="https://github.com/OrbitalShell/Orbital-Shell">Orbital Shell</a> - A great project but focused on being cross platform,  supporting the same commands on multiple platforms, as such 'OS' commands have been reimplemented. We took the view of keeping existing logic/syntax similar enough to aid porting.</li>
 </ul>
 <h3 id="how-to-install">How to install</h3>
-<p>First you need to <a href="https://docs.microsoft.com/en-gb/dotnet/core/install/linux">install the .NET5. runtime.</a> this is usually easiest via your OS' package manager. Next run:</p>
+<p>First you need to <a href="https://dotnet.microsoft.com/download/dotnet/6.0">install the .NET6. runtime.</a> this is usually easiest via your OS' package manager. Next run:</p>
 <pre><code>dotnet --info
 </code></pre>
-<p>If you see a lot of .NET version information that starts with 5.0 then you have a working copy of the .NET runtime. dotnet-shell is a dotnet tool. It is installed by:</p>
+<p>If you see a lot of .NET version information that starts with 6.0 then you have a working copy of the .NET runtime. dotnet-shell is a dotnet tool. It is installed by:</p>
 <pre><code>dotnet tool install -g dotnet-shell
 </code></pre>
 <table>
@@ -139,7 +139,7 @@ or <a href="https://github.com/yevhen/Nake/blob/master/README.md">nake</a> you w
 </tr>
 <tr>
 <td>Windows</td>
-<td>Experimental</td>
+<td>In-Testing</td>
 </tr>
 <tr>
 <td>Mac</td>
@@ -147,10 +147,11 @@ or <a href="https://github.com/yevhen/Nake/blob/master/README.md">nake</a> you w
 </tr>
 <tr>
 <td>BSD</td>
-<td>Unsupported</td>
+<td><a href="https://github.com/dotnet/runtime/issues/14537">Unsupported</a></td>
 </tr>
 </tbody>
 </table>
+<p>There is now initial support for Windows execution via PowerShell. Executing commands works as does variable capture.</p>
 <h2 id="syntax-cheatsheet">Syntax cheatsheet</h2>
 <p>In general dotnet-shell uses the same syntax of <a href="https://github.com/filipw/dotnet-script">dotnetscript</a>. To make some operations easier this has been extended so that:</p>
 <ul>
@@ -258,7 +259,7 @@ echo $variable$
 <h3 id="how-to-build-from-source">How to build from source</h3>
 <p>Visual Studio solutions and VS Code projects are published with this repo. Otherwise you can checkout the repo and run:</p>
 <pre><code>dotnet build
-dotnet src/Shell/bin/Debug/net5.0/dotnet-shell.dll
+dotnet src/Shell/bin/Debug/net6.0/dotnet-shell.dll
 </code></pre>
 <h2 id="author">Author</h2>
 <p><strong>i-am-shodan</strong></p>
